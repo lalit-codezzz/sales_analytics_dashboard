@@ -1,4 +1,4 @@
-type OrderStatus = "delivered" | "pending" | "cancelled" | "returned";
+export type OrderStatus = "Delivered" | "Pending" | "Cancelled" | "Returned";
 
 export interface Order {
   id: string;
@@ -7,5 +7,5 @@ export interface Order {
   status: OrderStatus;
   amount: number; // not rupees, but paisa 1 INR = 100 Paise (Good for decimals - will support till 2 digits after decimal)
   date: Date;
-  quantity: number;
+  quantity: 1;
 }

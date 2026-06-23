@@ -14,5 +14,4 @@ export interface Product {
   category: ProductCategories;
   description: string;
   basePrice: number;
-  popularity: number;
 }

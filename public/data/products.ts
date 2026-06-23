@@ -1,0 +1,1999 @@
+export const products = [
+  {
+    id: "91ecddd9-cff5-41ed-881e-8120972635c0",
+    name: "Essence Mascara Lash Princess",
+    category: "Beauty",
+    description:
+      "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    basePrice: 95000,
+  },
+  {
+    id: "a9dd836c-7a0a-496b-8b2c-c8d6d571d06a",
+    name: "Eyeshadow Palette with Mirror",
+    category: "Beauty",
+    description:
+      "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+    basePrice: 190000,
+  },
+  {
+    id: "2e887443-4569-4d27-9fe4-da59ef5cbe38",
+    name: "Powder Canister",
+    category: "Beauty",
+    description:
+      "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+    basePrice: 142500,
+  },
+  {
+    id: "b1e97f00-01a9-4054-aed7-14e62b4eb98c",
+    name: "Red Lipstick",
+    category: "Beauty",
+    description:
+      "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+    basePrice: 123500,
+  },
+  {
+    id: "2c7e4d3a-8e0b-4f9f-9287-38a088172353",
+    name: "Red Nail Polish",
+    category: "Beauty",
+    description:
+      "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+    basePrice: 85500,
+  },
+  {
+    id: "b2e01dc9-13b7-4446-9d6b-524f3da95358",
+    name: "Calvin Klein CK One",
+    category: "Beauty",
+    description:
+      "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    basePrice: 475000,
+  },
+  {
+    id: "7bb80e16-d724-4568-8df0-94de414c150f",
+    name: "Chanel Coco Noir Eau De",
+    category: "Beauty",
+    description:
+      "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    basePrice: 1235000,
+  },
+  {
+    id: "bc8d7915-bee6-4a66-b3ff-04e9e93af7fe",
+    name: "Dior J'adore",
+    category: "Beauty",
+    description:
+      "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    basePrice: 855000,
+  },
+  {
+    id: "8d203624-1375-44d2-89ea-cff49d1f81d5",
+    name: "Dolce Shine Eau de",
+    category: "Beauty",
+    description:
+      "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+    basePrice: 665000,
+  },
+  {
+    id: "e44c84b4-cd8f-44cf-b1c4-0c77b29f86d8",
+    name: "Gucci Bloom Eau de",
+    category: "Beauty",
+    description:
+      "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+    basePrice: 760000,
+  },
+  {
+    id: "29ecf951-e5a0-4220-a0c9-af9b6d393fb2",
+    name: "Annibale Colombo Bed",
+    category: "Home & Kitchen",
+    description:
+      "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+    basePrice: 18050000,
+  },
+  {
+    id: "b6152506-c07c-4269-8810-16ada684dba0",
+    name: "Annibale Colombo Sofa",
+    category: "Home & Kitchen",
+    description:
+      "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+    basePrice: 23750000,
+  },
+  {
+    id: "0fbaa65d-dba7-4205-847c-15046598bf26",
+    name: "Bedside Table African Cherry",
+    category: "Home & Kitchen",
+    description:
+      "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+    basePrice: 2850000,
+  },
+  {
+    id: "3584bb80-ae91-4b1e-b233-c1fe45c1f477",
+    name: "Knoll Saarinen Executive Conference Chair",
+    category: "Home & Kitchen",
+    description:
+      "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+    basePrice: 4750000,
+  },
+  {
+    id: "edb4b733-0ed3-46cc-8cc2-bd7bb180be46",
+    name: "Wooden Bathroom Sink With Mirror",
+    category: "Home & Kitchen",
+    description:
+      "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+    basePrice: 7600000,
+  },
+  {
+    id: "5e39c307-9e9b-4b3d-89bd-282a2b4acf13",
+    name: "Apple",
+    category: "Grocery",
+    description:
+      "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+    basePrice: 19000,
+  },
+  {
+    id: "d62fec78-c275-49f3-b14b-fd894d55e7aa",
+    name: "Beef Steak",
+    category: "Grocery",
+    description:
+      "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+    basePrice: 123500,
+  },
+  {
+    id: "a52dcf42-063b-48b7-9fbc-f672bf779d23",
+    name: "Cat Food",
+    category: "Grocery",
+    description:
+      "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+    basePrice: 85500,
+  },
+  {
+    id: "5029ae88-3996-49dc-8e55-960d82a4a287",
+    name: "Chicken Meat",
+    category: "Grocery",
+    description:
+      "Fresh and tender chicken meat, suitable for various culinary preparations.",
+    basePrice: 95000,
+  },
+  {
+    id: "bdafe0d1-a0f8-4e77-a016-21e3a2b94076",
+    name: "Cooking Oil",
+    category: "Grocery",
+    description:
+      "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+    basePrice: 47500,
+  },
+  {
+    id: "cdbbfff4-5be4-495d-a9b4-84798c10b738",
+    name: "Cucumber",
+    category: "Grocery",
+    description:
+      "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+    basePrice: 14200,
+  },
+  {
+    id: "9d8202ec-07a3-4219-b3db-54c46753e5f8",
+    name: "Dog Food",
+    category: "Grocery",
+    description:
+      "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+    basePrice: 104500,
+  },
+  {
+    id: "dc0f4058-328f-4acd-b9eb-4701f0228dcf",
+    name: "Eggs",
+    category: "Grocery",
+    description:
+      "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+    basePrice: 28500,
+  },
+  {
+    id: "f44f3bbd-db9b-46d0-83bd-feb06d75e8f8",
+    name: "Fish Steak",
+    category: "Grocery",
+    description:
+      "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+    basePrice: 142500,
+  },
+  {
+    id: "a3ab4095-3289-4579-ac57-a8c1225d837a",
+    name: "Green Bell Pepper",
+    category: "Grocery",
+    description:
+      "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+    basePrice: 12300,
+  },
+  {
+    id: "b8baca43-fcd0-43df-ad1f-84e1ffc40056",
+    name: "Green Chili Pepper",
+    category: "Grocery",
+    description:
+      "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+    basePrice: 9500,
+  },
+  {
+    id: "4d10d6b7-cd0a-482a-81b8-1c56c26e7fa4",
+    name: "Honey Jar",
+    category: "Grocery",
+    description:
+      "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+    basePrice: 66500,
+  },
+  {
+    id: "78dbcc25-c46a-49bc-9060-dcddbcc57fc7",
+    name: "Ice Cream",
+    category: "Grocery",
+    description:
+      "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+    basePrice: 52200,
+  },
+  {
+    id: "105410bb-7e04-42d4-a6fc-60cdd3410d44",
+    name: "Juice",
+    category: "Grocery",
+    description:
+      "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+    basePrice: 38000,
+  },
+  {
+    id: "9a4295f2-d4ec-4dd1-b62c-8eccda19e23f",
+    name: "Kiwi",
+    category: "Grocery",
+    description:
+      "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+    basePrice: 23700,
+  },
+  {
+    id: "15e099af-aa4a-483e-99e2-c05740bdbfab",
+    name: "Lemon",
+    category: "Grocery",
+    description:
+      "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+    basePrice: 7600,
+  },
+  {
+    id: "0a873710-13cb-453a-86f5-a1088c17d1f1",
+    name: "Milk",
+    category: "Grocery",
+    description:
+      "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+    basePrice: 33200,
+  },
+  {
+    id: "d0fa21bb-f5cc-4e62-9b90-9a812dfc78fb",
+    name: "Mulberry",
+    category: "Grocery",
+    description:
+      "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+    basePrice: 47500,
+  },
+  {
+    id: "94c6fda5-1bdc-4845-9782-a714440089a6",
+    name: "Nescafe Coffee",
+    category: "Grocery",
+    description:
+      "Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
+    basePrice: 76000,
+  },
+  {
+    id: "75ca2cc1-a54d-454d-8a85-0614800a1cfb",
+    name: "Potatoes",
+    category: "Grocery",
+    description:
+      "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+    basePrice: 21800,
+  },
+  {
+    id: "a28b9fd1-ad8f-4a6e-a6c0-382b613ddaf8",
+    name: "Protein Powder",
+    category: "Grocery",
+    description:
+      "Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
+    basePrice: 190000,
+  },
+  {
+    id: "758dffc1-25e1-4b0b-8e8a-d375af8ff8da",
+    name: "Red Onions",
+    category: "Grocery",
+    description:
+      "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+    basePrice: 19000,
+  },
+  {
+    id: "93a9bcb4-1b2e-4577-89bc-89049a01c12c",
+    name: "Rice",
+    category: "Grocery",
+    description:
+      "High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
+    basePrice: 57000,
+  },
+  {
+    id: "009a8849-df7b-4a6c-9689-bc0dad15bd5a",
+    name: "Soft Drinks",
+    category: "Grocery",
+    description:
+      "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
+    basePrice: 19000,
+  },
+  {
+    id: "dc8038d3-c848-4380-8e32-29987e1f5b0e",
+    name: "Strawberry",
+    category: "Grocery",
+    description:
+      "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+    basePrice: 38000,
+  },
+  {
+    id: "3a5a9c6a-101a-4b7f-a7a3-de60222d6b91",
+    name: "Tissue Paper Box",
+    category: "Grocery",
+    description:
+      "Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
+    basePrice: 23700,
+  },
+  {
+    id: "588ff39a-8f74-42e8-a07d-be4d222572f7",
+    name: "Water",
+    category: "Grocery",
+    description:
+      "Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
+    basePrice: 9500,
+  },
+  {
+    id: "70eae219-4a4c-4511-b8bc-6a711b9451ab",
+    name: "Decoration Swing",
+    category: "Home & Kitchen",
+    description:
+      "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+    basePrice: 570000,
+  },
+  {
+    id: "3d8774e8-96c1-4dce-8ed8-b26b371b5ca0",
+    name: "Family Tree Photo Frame",
+    category: "Home & Kitchen",
+    description:
+      "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+    basePrice: 285000,
+  },
+  {
+    id: "222ec486-01da-49e5-8b00-b87c07b17a79",
+    name: "House Showpiece Plant",
+    category: "Home & Kitchen",
+    description:
+      "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    basePrice: 380000,
+  },
+  {
+    id: "ac1e7044-f6c7-4fd7-b4f2-c14f3a9b13be",
+    name: "Plant Pot",
+    category: "Home & Kitchen",
+    description:
+      "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+    basePrice: 142500,
+  },
+  {
+    id: "761d78cc-b1e4-4ca5-bd4d-97bc7c2cba63",
+    name: "Table Lamp",
+    category: "Home & Kitchen",
+    description:
+      "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    basePrice: 475000,
+  },
+  {
+    id: "84eaf2fd-2345-4367-95ad-c358cc8dd124",
+    name: "Bamboo Spatula",
+    category: "Home & Kitchen",
+    description:
+      "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+    basePrice: 76000,
+  },
+  {
+    id: "0abb12fd-bb4b-453d-b41f-3a22e93c1fd3",
+    name: "Black Aluminium Cup",
+    category: "Home & Kitchen",
+    description:
+      "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+    basePrice: 57000,
+  },
+  {
+    id: "41e16e71-2a4b-4aba-be9e-a19eab022df6",
+    name: "Black Whisk",
+    category: "Home & Kitchen",
+    description:
+      "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+    basePrice: 95000,
+  },
+  {
+    id: "8ee158d4-2c0f-4f35-8568-d21c15f7dbb8",
+    name: "Boxed Blender",
+    category: "Home & Kitchen",
+    description:
+      "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+    basePrice: 380000,
+  },
+  {
+    id: "ecf911c2-53e9-4ae1-84b9-ca1bb24d4146",
+    name: "Carbon Steel Wok",
+    category: "Home & Kitchen",
+    description:
+      "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+    basePrice: 285000,
+  },
+  {
+    id: "3dead242-86fb-4300-9522-885cc3d33087",
+    name: "Chopping Board",
+    category: "Home & Kitchen",
+    description:
+      "The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
+    basePrice: 123500,
+  },
+  {
+    id: "f466dd03-0956-40b1-96f3-12170e86b793",
+    name: "Citrus Squeezer Yellow",
+    category: "Home & Kitchen",
+    description:
+      "The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
+    basePrice: 85500,
+  },
+  {
+    id: "4c38cd5a-2c3a-4466-ae1a-11487493874a",
+    name: "Egg Slicer",
+    category: "Home & Kitchen",
+    description:
+      "The Egg Slicer is a convenient tool for slicing boiled eggs evenly. It's perfect for salads, sandwiches, and other dishes where sliced eggs are desired.",
+    basePrice: 66500,
+  },
+  {
+    id: "9a0215bb-b320-4a1b-9eb2-772cee72a986",
+    name: "Electric Stove",
+    category: "Home & Kitchen",
+    description:
+      "The Electric Stove provides a portable and efficient cooking solution. Ideal for small kitchens or as an additional cooking surface for various culinary needs.",
+    basePrice: 475000,
+  },
+  {
+    id: "a9e38418-971c-4a30-bf52-4042ffc0f6a1",
+    name: "Fine Mesh Strainer",
+    category: "Home & Kitchen",
+    description:
+      "The Fine Mesh Strainer is a versatile tool for straining liquids and sifting dry ingredients. Its fine mesh ensures efficient filtering for smooth cooking and baking.",
+    basePrice: 95000,
+  },
+  {
+    id: "96818dbb-7232-40c8-82a4-3757f838e117",
+    name: "Fork",
+    category: "Home & Kitchen",
+    description:
+      "The Fork is a classic utensil for various dining and serving purposes. Its durable and ergonomic design makes it a reliable choice for everyday use.",
+    basePrice: 38000,
+  },
+  {
+    id: "18a74185-ca9d-49d9-92ff-be142856682c",
+    name: "Glass",
+    category: "Home & Kitchen",
+    description:
+      "The Glass is a versatile and elegant drinking vessel suitable for a variety of beverages. Its clear design allows you to enjoy the colors and textures of your drinks.",
+    basePrice: 47500,
+  },
+  {
+    id: "066aaf5a-00fa-48b8-b7bc-b12570c44156",
+    name: "Grater Black",
+    category: "Home & Kitchen",
+    description:
+      "The Grater in Black is a handy kitchen tool for grating cheese, vegetables, and more. Its sleek design and sharp blades make food preparation efficient and easy.",
+    basePrice: 104500,
+  },
+  {
+    id: "88d05244-9972-45aa-950a-dac5d970eab0",
+    name: "Hand Blender",
+    category: "Home & Kitchen",
+    description:
+      "The Hand Blender is a versatile kitchen appliance for blending, pureeing, and mixing. Its compact design and powerful motor make it a convenient tool for various recipes.",
+    basePrice: 332500,
+  },
+  {
+    id: "2f810838-0e11-485d-9f95-2a5eb8bf96c0",
+    name: "Ice Cube Tray",
+    category: "Home & Kitchen",
+    description:
+      "The Ice Cube Tray is a practical accessory for making ice cubes in various shapes. Perfect for keeping your drinks cool and adding a fun element to your beverages.",
+    basePrice: 57000,
+  },
+  {
+    id: "6d1794e3-a1fa-4262-8bdb-ba74e6844c67",
+    name: "Kitchen Sieve",
+    category: "Home & Kitchen",
+    description:
+      "The Kitchen Sieve is a versatile tool for sifting and straining dry and wet ingredients. Its fine mesh design ensures smooth results in your cooking and baking.",
+    basePrice: 76000,
+  },
+  {
+    id: "01f849e3-6009-4ee6-b159-154846fc9f01",
+    name: "Knife",
+    category: "Home & Kitchen",
+    description:
+      "The Knife is an essential kitchen tool for chopping, slicing, and dicing. Its sharp blade and ergonomic handle make it a reliable choice for food preparation.",
+    basePrice: 142500,
+  },
+  {
+    id: "ddab99c5-ad84-4a9e-9fd9-076cf35eb86d",
+    name: "Lunch Box",
+    category: "Home & Kitchen",
+    description:
+      "The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
+    basePrice: 123500,
+  },
+  {
+    id: "bdfb4dfe-e952-4b52-bd7d-dd60f6e21fe4",
+    name: "Microwave Oven",
+    category: "Home & Kitchen",
+    description:
+      "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+    basePrice: 855000,
+  },
+  {
+    id: "4c1fc841-cd74-4172-aca0-0f2a7fedb882",
+    name: "Mug Tree Stand",
+    category: "Home & Kitchen",
+    description:
+      "The Mug Tree Stand is a stylish and space-saving solution for organizing your mugs. Keep your favorite mugs easily accessible and neatly displayed in your kitchen.",
+    basePrice: 152000,
+  },
+  {
+    id: "ce244527-3eb2-4329-86d8-c2e14d23507e",
+    name: "Pan",
+    category: "Home & Kitchen",
+    description:
+      "The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
+    basePrice: 237500,
+  },
+  {
+    id: "d5a0aba3-249d-47a7-a9ec-704f807bccfd",
+    name: "Plate",
+    category: "Home & Kitchen",
+    description:
+      "The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
+    basePrice: 38000,
+  },
+  {
+    id: "5835df01-6232-44e0-8ee5-ce68b6551777",
+    name: "Red Tongs",
+    category: "Home & Kitchen",
+    description:
+      "The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
+    basePrice: 66500,
+  },
+  {
+    id: "2083f793-62ff-4f52-988e-557634e4ada0",
+    name: "Silver Pot With Glass Cap",
+    category: "Home & Kitchen",
+    description:
+      "The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
+    basePrice: 380000,
+  },
+  {
+    id: "0eb92883-ad96-446d-8bf5-02b777041238",
+    name: "Slotted Turner",
+    category: "Home & Kitchen",
+    description:
+      "The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
+    basePrice: 85500,
+  },
+  {
+    id: "ba58dba0-25be-4c6b-b20c-3b6af291e850",
+    name: "Spice Rack",
+    category: "Home & Kitchen",
+    description:
+      "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+    basePrice: 190000,
+  },
+  {
+    id: "b3ef061c-1ea2-42be-bd48-d710ef152c2c",
+    name: "Spoon",
+    category: "Home & Kitchen",
+    description:
+      "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+    basePrice: 47500,
+  },
+  {
+    id: "01bcf48c-b89c-436e-ab00-be3b4545cc99",
+    name: "Tray",
+    category: "Home & Kitchen",
+    description:
+      "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+    basePrice: 161500,
+  },
+  {
+    id: "d14608fa-2027-4a8e-83c6-64a375698cf1",
+    name: "Wooden Rolling Pin",
+    category: "Home & Kitchen",
+    description:
+      "The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
+    basePrice: 114000,
+  },
+  {
+    id: "9f13f524-dfd7-4707-b8f8-39693103142b",
+    name: "Yellow Peeler",
+    category: "Home & Kitchen",
+    description:
+      "The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
+    basePrice: 57000,
+  },
+  {
+    id: "2cd97125-041a-41de-bf0a-5c2dc35ce658",
+    name: "Apple MacBook Pro 14 Inch Space Grey",
+    category: "Electronics",
+    description:
+      "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    basePrice: 19000000,
+  },
+  {
+    id: "3945f46e-79db-4e47-b762-cf29e3d30eca",
+    name: "Asus Zenbook Pro Dual Screen Laptop",
+    category: "Electronics",
+    description:
+      "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+    basePrice: 17100000,
+  },
+  {
+    id: "a10d5b60-70ec-450c-a956-532ef66b894f",
+    name: "Huawei Matebook X Pro",
+    category: "Electronics",
+    description:
+      "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+    basePrice: 13300000,
+  },
+  {
+    id: "6f057fdc-273a-4a3f-8ae7-7da13a7f57ab",
+    name: "Lenovo Yoga 920",
+    category: "Electronics",
+    description:
+      "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+    basePrice: 10450000,
+  },
+  {
+    id: "9c96a0a7-1b09-481e-82f0-04288125e789",
+    name: "New DELL XPS 13 9300 Laptop",
+    category: "Electronics",
+    description:
+      "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+    basePrice: 14250000,
+  },
+  {
+    id: "fc0c7d78-55ae-4824-8a77-0e62943bf661",
+    name: "Blue & Black Check Shirt",
+    category: "Fashion",
+    description:
+      "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+    basePrice: 285000,
+  },
+  {
+    id: "1e5ba25b-8e49-4cdf-b0c9-679cb8798489",
+    name: "Gigabyte Aorus Men Tshirt",
+    category: "Fashion",
+    description:
+      "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+    basePrice: 237500,
+  },
+  {
+    id: "e01da1df-5053-48c7-a6b4-e97c363d44ff",
+    name: "Man Plaid Shirt",
+    category: "Fashion",
+    description:
+      "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+    basePrice: 332500,
+  },
+  {
+    id: "e6e88dd4-f651-42ee-8d46-460c25e7c9f6",
+    name: "Man Short Sleeve Shirt",
+    category: "Fashion",
+    description:
+      "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+    basePrice: 190000,
+  },
+  {
+    id: "a8874dc1-c999-41b6-9569-59f93d2ab1f4",
+    name: "Men Check Shirt",
+    category: "Fashion",
+    description:
+      "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+    basePrice: 266000,
+  },
+  {
+    id: "380af6ea-4988-42ae-a7bb-9a14875587ca",
+    name: "Nike Air Jordan 1 Red And Black",
+    category: "Fashion",
+    description:
+      "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+    basePrice: 1425000,
+  },
+  {
+    id: "2402a6c0-2eb6-4c26-98ff-7358de33c48b",
+    name: "Nike Baseball Cleats",
+    category: "Fashion",
+    description:
+      "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+    basePrice: 760000,
+  },
+  {
+    id: "ecb5094c-2437-4891-a0b3-389754da2515",
+    name: "Puma Future Rider Trainers",
+    category: "Fashion",
+    description:
+      "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+    basePrice: 855000,
+  },
+  {
+    id: "115db672-602c-45f7-8107-4589f306a7ad",
+    name: "Sports Sneakers Off White & Red",
+    category: "Fashion",
+    description:
+      "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+    basePrice: 1140000,
+  },
+  {
+    id: "96f871c2-dd18-4509-a0e6-b541b6883e29",
+    name: "Sports Sneakers Off White Red",
+    category: "Fashion",
+    description:
+      "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+    basePrice: 1045000,
+  },
+  {
+    id: "020e0042-9a40-46db-8816-ba7cf71e1465",
+    name: "Brown Leather Belt Watch",
+    category: "Electronics",
+    description:
+      "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+    basePrice: 855000,
+  },
+  {
+    id: "ee0f58c0-7a27-45b0-94bd-4ee62ef3a2b5",
+    name: "Longines Master Collection",
+    category: "Electronics",
+    description:
+      "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+    basePrice: 14250000,
+  },
+  {
+    id: "0160b972-1145-4db6-990d-b51ca00b1a18",
+    name: "Rolex Cellini Date Black Dial",
+    category: "Electronics",
+    description:
+      "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+    basePrice: 85500000,
+  },
+  {
+    id: "eb4b6d0c-965c-49fe-99bf-db6b2a2abed9",
+    name: "Rolex Cellini Moonphase",
+    category: "Electronics",
+    description:
+      "The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
+    basePrice: 123500000,
+  },
+  {
+    id: "f7bf7327-35ba-4859-9c67-e46e3a6f70d2",
+    name: "Rolex Datejust",
+    category: "Electronics",
+    description:
+      "The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
+    basePrice: 104500000,
+  },
+  {
+    id: "516d559b-7183-483f-87d4-637cef6d8e23",
+    name: "Rolex Submariner Watch",
+    category: "Electronics",
+    description:
+      "The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
+    basePrice: 133000000,
+  },
+  {
+    id: "e64e3121-b16e-49f3-a5c8-417fd2a1c48d",
+    name: "Amazon Echo Plus",
+    category: "Electronics",
+    description:
+      "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+    basePrice: 950000,
+  },
+  {
+    id: "b62a4e6e-ed44-48c9-b4a8-7faf2fda2e14",
+    name: "Apple Airpods",
+    category: "Electronics",
+    description:
+      "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+    basePrice: 1235000,
+  },
+  {
+    id: "b5b7f735-aaed-49fd-aa6a-41e6b0df1b8f",
+    name: "Apple AirPods Max Silver",
+    category: "Electronics",
+    description:
+      "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+    basePrice: 5225000,
+  },
+  {
+    id: "6ca89ca0-8478-462d-a984-33d45ed5b3a3",
+    name: "Apple Airpower Wireless Charger",
+    category: "Electronics",
+    description:
+      "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+    basePrice: 760000,
+  },
+  {
+    id: "ed25b679-b40c-44c1-b8fd-255894cc4fd9",
+    name: "Apple HomePod Mini Cosmic Grey",
+    category: "Electronics",
+    description:
+      "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+    basePrice: 950000,
+  },
+  {
+    id: "96acfca2-3b5d-4f04-a5e3-4032ce9e5126",
+    name: "Apple iPhone Charger",
+    category: "Electronics",
+    description:
+      "The Apple iPhone Charger is a high-quality charger designed for fast and efficient charging of your iPhone. Ensure your device stays powered up and ready to go.",
+    basePrice: 190000,
+  },
+  {
+    id: "26f549f0-99fd-4a6b-a887-7496f7e92cb1",
+    name: "Apple MagSafe Battery Pack",
+    category: "Electronics",
+    description:
+      "The Apple MagSafe Battery Pack is a portable and convenient way to add extra battery life to your MagSafe-compatible iPhone. Attach it magnetically for a secure connection.",
+    basePrice: 950000,
+  },
+  {
+    id: "a61af302-a0ff-4185-a3b8-9cd0f12c762a",
+    name: "Apple Watch Series 4 Gold",
+    category: "Electronics",
+    description:
+      "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+    basePrice: 3325000,
+  },
+  {
+    id: "7cee532f-2b34-4dfe-9440-eeb041e901fd",
+    name: "Beats Flex Wireless Earphones",
+    category: "Electronics",
+    description:
+      "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+    basePrice: 475000,
+  },
+  {
+    id: "d7dbcf22-830c-4a49-97fa-a654dae67d29",
+    name: "iPhone 12 Silicone Case with MagSafe Plum",
+    category: "Electronics",
+    description:
+      "The iPhone 12 Silicone Case with MagSafe in Plum is a stylish and protective case designed for the iPhone 12. It features MagSafe technology for easy attachment of accessories.",
+    basePrice: 285000,
+  },
+  {
+    id: "ad7e0c12-754c-4bf4-b278-65f3a29d2b5b",
+    name: "Monopod",
+    category: "Electronics",
+    description:
+      "The Monopod is a versatile camera accessory for stable and adjustable shooting. Perfect for capturing selfies, group photos, and videos with ease.",
+    basePrice: 190000,
+  },
+  {
+    id: "01604186-d3bd-4f3f-a8c8-2b83f0d3c9de",
+    name: "Selfie Lamp with iPhone",
+    category: "Electronics",
+    description:
+      "The Selfie Lamp with iPhone is a portable and adjustable LED light designed to enhance your selfies and video calls. Attach it to your iPhone for well-lit photos.",
+    basePrice: 142500,
+  },
+  {
+    id: "82b082ae-6e0b-4464-a2d6-346cf50f717d",
+    name: "Selfie Stick Monopod",
+    category: "Electronics",
+    description:
+      "The Selfie Stick Monopod is a extendable and foldable device for capturing the perfect selfie or group photo. Compatible with smartphones and cameras.",
+    basePrice: 123500,
+  },
+  {
+    id: "bae82ea1-f0a3-4d16-a351-ff503896907f",
+    name: "TV Studio Camera Pedestal",
+    category: "Electronics",
+    description:
+      "The TV Studio Camera Pedestal is a professional-grade camera support system for smooth and precise camera movements in a studio setting. Ideal for broadcast and production.",
+    basePrice: 4750000,
+  },
+  {
+    id: "24da061f-5a24-42b2-ab0d-6cffa3e857dc",
+    name: "Generic Motorcycle",
+    category: "Vehicle",
+    description:
+      "The Generic Motorcycle is a versatile and reliable bike suitable for various riding preferences. With a balanced design, it provides a comfortable and efficient riding experience.",
+    basePrice: 38000000,
+  },
+  {
+    id: "21f57c2e-6109-412c-a70a-4dd7d33209ac",
+    name: "Kawasaki Z800",
+    category: "Vehicle",
+    description:
+      "The Kawasaki Z800 is a powerful and agile sportbike known for its striking design and performance. It's equipped with advanced features, making it a favorite among motorcycle enthusiasts.",
+    basePrice: 85500000,
+  },
+  {
+    id: "5880edb6-a483-4919-8b39-498be569ca29",
+    name: "MotoGP CI.H1",
+    category: "Vehicle",
+    description:
+      "The MotoGP CI.H1 is a high-performance motorcycle inspired by MotoGP racing technology. It offers cutting-edge features and precision engineering for an exhilarating riding experience.",
+    basePrice: 142500000,
+  },
+  {
+    id: "b354a6c4-ca0c-4402-9cb5-4779c4d86ffe",
+    name: "Scooter Motorcycle",
+    category: "Vehicle",
+    description:
+      "The Scooter Motorcycle is a practical and fuel-efficient bike ideal for urban commuting. It features a step-through design and user-friendly controls for easy maneuverability.",
+    basePrice: 28500000,
+  },
+  {
+    id: "0df0028b-b38a-4cc5-b08b-d9f4397ecd97",
+    name: "Sportbike Motorcycle",
+    category: "Vehicle",
+    description:
+      "The Sportbike Motorcycle is designed for speed and agility, with a sleek and aerodynamic profile. It's suitable for riders looking for a dynamic and thrilling riding experience.",
+    basePrice: 71250000,
+  },
+  {
+    id: "8f16063b-8025-4434-9f38-22df1e9b614b",
+    name: "Attitude Super Leaves Hand Soap",
+    category: "Beauty",
+    description:
+      "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft.",
+    basePrice: 85500,
+  },
+  {
+    id: "1b542d7c-1d5e-4c57-9aa2-bf878be86c8f",
+    name: "Olay Ultra Moisture Shea Butter Body Wash",
+    category: "Beauty",
+    description:
+      "Olay Ultra Moisture Shea Butter Body Wash is a luxurious body wash that hydrates and nourishes your skin with the moisturizing power of shea butter. Enjoy a rich lather and silky-smooth skin.",
+    basePrice: 123500,
+  },
+  {
+    id: "a8176bfc-5e31-4d54-82b8-96b606950bdc",
+    name: "Vaseline Men Body and Face Lotion",
+    category: "Beauty",
+    description:
+      "Vaseline Men Body and Face Lotion is a specially formulated lotion designed to provide long-lasting moisture to men's skin. It absorbs quickly and helps keep the skin hydrated and healthy.",
+    basePrice: 95000,
+  },
+  {
+    id: "9568784c-73aa-4132-8295-1ae453068bba",
+    name: "iPhone 5s",
+    category: "Electronics",
+    description:
+      "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+    basePrice: 1900000,
+  },
+  {
+    id: "e2b69979-781a-4ffb-a3bb-8ea31d2c3326",
+    name: "iPhone 6",
+    category: "Electronics",
+    description:
+      "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+    basePrice: 2850000,
+  },
+  {
+    id: "95352ecc-c282-4c8f-b78e-18bd8d2fc2e8",
+    name: "iPhone 13 Pro",
+    category: "Electronics",
+    description:
+      "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+    basePrice: 10450000,
+  },
+  {
+    id: "bb652468-550b-4228-a3cb-6c895d0b119d",
+    name: "iPhone X",
+    category: "Electronics",
+    description:
+      "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+    basePrice: 8550000,
+  },
+  {
+    id: "2cdcbb8c-5469-43c3-8d22-238baf556ec6",
+    name: "Oppo A57",
+    category: "Electronics",
+    description:
+      "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+    basePrice: 2375000,
+  },
+  {
+    id: "36a63ccb-d364-436c-bbe8-523ee6feeac8",
+    name: "Oppo F19 Pro Plus",
+    category: "Electronics",
+    description:
+      "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+    basePrice: 3800000,
+  },
+  {
+    id: "bf5e9d2b-17c2-4625-a588-9c6f9d1ed167",
+    name: "Oppo K1",
+    category: "Electronics",
+    description:
+      "The Oppo K1 series offers a range of smartphones with various features and specifications. Known for their stylish design and reliable performance, the Oppo K1 series caters to diverse user preferences.",
+    basePrice: 2850000,
+  },
+  {
+    id: "4160034a-9ebe-4999-b5e9-4293cdc6aa09",
+    name: "Realme C35",
+    category: "Electronics",
+    description:
+      "The Realme C35 is a budget-friendly smartphone with a focus on providing essential features for everyday use. It offers a reliable performance and user-friendly experience.",
+    basePrice: 1425000,
+  },
+  {
+    id: "9691dfd4-2c2d-46ed-871d-a83b78d4286a",
+    name: "Realme X",
+    category: "Electronics",
+    description:
+      "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
+    basePrice: 2850000,
+  },
+  {
+    id: "7d4e311f-d388-42f4-a93f-1961e70ace22",
+    name: "Realme XT",
+    category: "Electronics",
+    description:
+      "The Realme XT is a feature-rich smartphone with a focus on camera technology. It comes equipped with advanced camera sensors, delivering high-quality photos and videos for photography enthusiasts.",
+    basePrice: 3325000,
+  },
+  {
+    id: "ed73e65a-48f7-4c1e-a5c1-cb71a7c54393",
+    name: "Samsung Galaxy S7",
+    category: "Electronics",
+    description:
+      "The Samsung Galaxy S7 is a flagship smartphone known for its sleek design and advanced features. It features a high-resolution display, powerful camera, and robust performance.",
+    basePrice: 2850000,
+  },
+  {
+    id: "7e7095c0-3bf2-4ac2-ab24-8a33b77f6f95",
+    name: "Samsung Galaxy S8",
+    category: "Electronics",
+    description:
+      "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+    basePrice: 4750000,
+  },
+  {
+    id: "3b4d1b92-e345-46fe-a2a5-e67fa479f798",
+    name: "Samsung Galaxy S10",
+    category: "Electronics",
+    description:
+      "The Samsung Galaxy S10 is a flagship device featuring a dynamic AMOLED display, versatile camera system, and powerful performance. It represents innovation and excellence in smartphone technology.",
+    basePrice: 6650000,
+  },
+  {
+    id: "ff22deeb-1651-402d-a6b5-851acb376745",
+    name: "Vivo S1",
+    category: "Electronics",
+    description:
+      "The Vivo S1 is a stylish and mid-range smartphone offering a blend of design and performance. It features a vibrant display, capable camera system, and reliable functionality.",
+    basePrice: 2375000,
+  },
+  {
+    id: "dda9a75c-51fb-4151-b321-c8801fc75f34",
+    name: "Vivo V9",
+    category: "Electronics",
+    description:
+      "The Vivo V9 is a smartphone known for its sleek design and emphasis on capturing high-quality selfies. It features a notch display, dual-camera setup, and a modern design.",
+    basePrice: 2850000,
+  },
+  {
+    id: "2b0b132a-3108-4a47-bed7-3c3393a3e920",
+    name: "Vivo X21",
+    category: "Electronics",
+    description:
+      "The Vivo X21 is a premium smartphone with a focus on cutting-edge technology. It features an in-display fingerprint sensor, a high-resolution display, and advanced camera capabilities.",
+    basePrice: 4750000,
+  },
+  {
+    id: "a8bc5244-ab1f-493d-9e51-dca238060958",
+    name: "American Football",
+    category: "Sports",
+    description:
+      "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+    basePrice: 190000,
+  },
+  {
+    id: "ce645390-e702-4e8a-b4ad-68e2ffd5c215",
+    name: "Baseball Ball",
+    category: "Sports",
+    description:
+      "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+    basePrice: 85500,
+  },
+  {
+    id: "053673b1-4587-4ad3-964f-efed119b276e",
+    name: "Baseball Glove",
+    category: "Sports",
+    description:
+      "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+    basePrice: 237500,
+  },
+  {
+    id: "f79cd2ed-73cf-4668-9d19-42185147cef1",
+    name: "Basketball",
+    category: "Sports",
+    description:
+      "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+    basePrice: 142500,
+  },
+  {
+    id: "d4ab677e-bd6f-4fb6-89e0-d35a5e1e8482",
+    name: "Basketball Rim",
+    category: "Sports",
+    description:
+      "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+    basePrice: 380000,
+  },
+  {
+    id: "0d493c90-2f8e-4eed-8762-f009c3abef7f",
+    name: "Cricket Ball",
+    category: "Sports",
+    description:
+      "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
+    basePrice: 123500,
+  },
+  {
+    id: "dd8acaf2-b8e4-41b1-b76b-ae09da224bf8",
+    name: "Cricket Bat",
+    category: "Sports",
+    description:
+      "The Cricket Bat is an essential piece of cricket equipment used by batsmen to hit the cricket ball. It is made of wood and comes in various sizes and designs.",
+    basePrice: 285000,
+  },
+  {
+    id: "550a1e93-f8d0-4804-b7b7-9eaf6911464a",
+    name: "Cricket Helmet",
+    category: "Sports",
+    description:
+      "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
+    basePrice: 427500,
+  },
+  {
+    id: "61fd7ac0-fa42-452a-a8bd-3a2e6e175d94",
+    name: "Cricket Wicket",
+    category: "Sports",
+    description:
+      "The Cricket Wicket is a set of three stumps and two bails, forming a wicket used in the sport of cricket. Batsmen aim to protect the wicket while scoring runs.",
+    basePrice: 285000,
+  },
+  {
+    id: "8e53767d-f09b-407b-a815-b71111374611",
+    name: "Feather Shuttlecock",
+    category: "Sports",
+    description:
+      "The Feather Shuttlecock is used in the sport of badminton. It features natural feathers and is designed for high-speed play, providing stability and accuracy during matches.",
+    basePrice: 57000,
+  },
+  {
+    id: "bac69fe9-e113-4519-89ce-2fdfede1f193",
+    name: "Football",
+    category: "Sports",
+    description:
+      "The Football, also known as a soccer ball, is the standard ball used in the sport of football (soccer). It is designed for kicking and passing in the game.",
+    basePrice: 171000,
+  },
+  {
+    id: "3c61b1a9-de30-4302-b5d8-be12f6922952",
+    name: "Golf Ball",
+    category: "Sports",
+    description:
+      "The Golf Ball is a small ball used in the sport of golf. It features dimples on its surface, providing aerodynamic lift and distance when struck by a golf club.",
+    basePrice: 95000,
+  },
+  {
+    id: "59c1b40e-76d5-4a5d-b645-4fe0ce1d8c43",
+    name: "Iron Golf",
+    category: "Sports",
+    description:
+      "The Iron Golf is a type of golf club designed for various golf shots. It features a solid metal head and is used for approach shots, chipping, and other golfing techniques.",
+    basePrice: 475000,
+  },
+  {
+    id: "c8249aef-b851-4611-b1ed-17a61efc438d",
+    name: "Metal Baseball Bat",
+    category: "Sports",
+    description:
+      "The Metal Baseball Bat is a durable and lightweight baseball bat made from metal alloys. It is commonly used in baseball games for hitting and batting practice.",
+    basePrice: 285000,
+  },
+  {
+    id: "78517a77-61be-49d2-ad0d-9c4ec532b155",
+    name: "Tennis Ball",
+    category: "Sports",
+    description:
+      "The Tennis Ball is a standard ball used in the sport of tennis. It is designed for bouncing and hitting with tennis rackets during matches or practice sessions.",
+    basePrice: 66500,
+  },
+  {
+    id: "95c5c573-163a-4f2e-b664-e687853000e6",
+    name: "Tennis Racket",
+    category: "Sports",
+    description:
+      "The Tennis Racket is an essential piece of equipment used in the sport of tennis. It features a frame with strings and a grip, allowing players to hit the tennis ball.",
+    basePrice: 475000,
+  },
+  {
+    id: "965f0930-8b53-4d8a-b95e-7d79a41b5c23",
+    name: "Volleyball",
+    category: "Sports",
+    description:
+      "The Volleyball is a standard ball used in the sport of volleyball. It is designed for passing, setting, and spiking over the net during volleyball matches.",
+    basePrice: 114000,
+  },
+  {
+    id: "581b1fac-9123-4c49-bd88-3180663d9231",
+    name: "Black Sun Glasses",
+    category: "Fashion",
+    description:
+      "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
+    basePrice: 285000,
+  },
+  {
+    id: "602fc653-014d-4141-b6c3-60cc92d0421d",
+    name: "Classic Sun Glasses",
+    category: "Fashion",
+    description:
+      "The Classic Sun Glasses offer a timeless design with a neutral frame and UV-protected lenses. These sunglasses are versatile and suitable for various occasions.",
+    basePrice: 237500,
+  },
+  {
+    id: "ac82191f-c188-41b7-a6a6-b9cee842b404",
+    name: "Green and Black Glasses",
+    category: "Fashion",
+    description:
+      "The Green and Black Glasses feature a bold combination of green and black colors, adding a touch of vibrancy to your eyewear collection. They are both stylish and eye-catching.",
+    basePrice: 332500,
+  },
+  {
+    id: "a166db34-bbfb-4419-86c2-1e9f7841c4b9",
+    name: "Party Glasses",
+    category: "Fashion",
+    description:
+      "The Party Glasses are designed to add flair to your party outfit. With unique shapes or colorful frames, they're perfect for adding a playful touch to your look during celebrations.",
+    basePrice: 190000,
+  },
+  {
+    id: "3903c779-d6c0-4132-9627-5b9c8f6cd16b",
+    name: "Sunglasses",
+    category: "Fashion",
+    description:
+      "The Sunglasses offer a classic and simple design with a focus on functionality. These sunglasses provide essential UV protection while maintaining a timeless look.",
+    basePrice: 218500,
+  },
+  {
+    id: "7f5664be-2a54-46a0-ace8-1e5ea039d419",
+    name: "iPad Mini 2021 Starlight",
+    category: "Electronics",
+    description:
+      "The iPad Mini 2021 in Starlight is a compact and powerful tablet from Apple. Featuring a stunning Retina display, powerful A-series chip, and a sleek design, it offers a premium tablet experience.",
+    basePrice: 4750000,
+  },
+  {
+    id: "51d7b750-c653-4499-8751-5f4a40ebebc6",
+    name: "Samsung Galaxy Tab S8 Plus Grey",
+    category: "Electronics",
+    description:
+      "The Samsung Galaxy Tab S8 Plus in Grey is a high-performance Android tablet by Samsung. With a large AMOLED display, powerful processor, and S Pen support, it's ideal for productivity and entertainment.",
+    basePrice: 5700000,
+  },
+  {
+    id: "9d2eb659-4a6e-427e-90a0-f81b36d2ae48",
+    name: "Samsung Galaxy Tab White",
+    category: "Electronics",
+    description:
+      "The Samsung Galaxy Tab in White is a sleek and versatile Android tablet. With a vibrant display, long-lasting battery, and a range of features, it offers a great user experience for various tasks.",
+    basePrice: 3325000,
+  },
+  {
+    id: "b99d7113-3ea3-471e-adb6-6e2b51aa9fe0",
+    name: "Blue Frock",
+    category: "Fashion",
+    description:
+      "The Blue Frock is a charming and stylish dress for various occasions. With a vibrant blue color and a comfortable design, it adds a touch of elegance to your wardrobe.",
+    basePrice: 285000,
+  },
+  {
+    id: "ccc87d68-e607-4b83-bf9e-e6156cf452ae",
+    name: "Girl Summer Dress",
+    category: "Fashion",
+    description:
+      "The Girl Summer Dress is a cute and breezy dress designed for warm weather. With playful patterns and lightweight fabric, it's perfect for keeping cool and stylish during the summer.",
+    basePrice: 190000,
+  },
+  {
+    id: "ea0f7098-48d7-48b6-99f4-a741a6e6d34f",
+    name: "Gray Dress",
+    category: "Fashion",
+    description:
+      "The Gray Dress is a versatile and chic option for various occasions. With a neutral gray color, it can be dressed up or down, making it a wardrobe staple for any fashion-forward individual.",
+    basePrice: 332500,
+  },
+  {
+    id: "39b995e9-a640-46c5-90a8-1ebe9897f6d3",
+    name: "Short Frock",
+    category: "Fashion",
+    description:
+      "The Short Frock is a playful and trendy dress with a shorter length. Ideal for casual outings or special occasions, it combines style and comfort for a fashionable look.",
+    basePrice: 237500,
+  },
+  {
+    id: "3587b589-300c-46ca-b8c4-3d8a715712f9",
+    name: "Tartan Dress",
+    category: "Fashion",
+    description:
+      "The Tartan Dress features a classic tartan pattern, bringing a timeless and sophisticated touch to your wardrobe. Perfect for fall and winter, it adds a hint of traditional charm.",
+    basePrice: 380000,
+  },
+  {
+    id: "001c6f8e-1094-45c5-ad2c-e02658badacd",
+    name: "300 Touring",
+    category: "Vehicle",
+    description:
+      "The 300 Touring is a stylish and comfortable sedan, known for its luxurious features and smooth performance.",
+    basePrice: 275500000,
+  },
+  {
+    id: "33bb400c-a52b-4ff4-8764-a96fc7e418d9",
+    name: "Charger SXT RWD",
+    category: "Vehicle",
+    description:
+      "The Charger SXT RWD is a powerful and sporty rear-wheel-drive sedan, offering a blend of performance and practicality.",
+    basePrice: 313500000,
+  },
+  {
+    id: "69fe0a09-45f4-4dba-a8d1-8ce98eb6f72b",
+    name: "Dodge Hornet GT Plus",
+    category: "Vehicle",
+    description:
+      "The Dodge Hornet GT Plus is a compact and agile hatchback, perfect for urban driving with a touch of sportiness.",
+    basePrice: 237500000,
+  },
+  {
+    id: "308db705-b841-4b56-ac37-15d19581f145",
+    name: "Durango SXT RWD",
+    category: "Vehicle",
+    description:
+      "The Durango SXT RWD is a spacious and versatile SUV, known for its strong performance and family-friendly features.",
+    basePrice: 351500000,
+  },
+  {
+    id: "aa05b832-3e0e-465f-8d1d-28dd5912e1c1",
+    name: "Pacifica Touring",
+    category: "Vehicle",
+    description:
+      "The Pacifica Touring is a stylish and well-equipped minivan, offering comfort and convenience for family journeys.",
+    basePrice: 304000000,
+  },
+  {
+    id: "b6bc476d-cf88-4c40-aeac-9fc0e64800fd",
+    name: "Blue Women's Handbag",
+    category: "Fashion",
+    description:
+      "The Blue Women's Handbag is a stylish and spacious accessory for everyday use. With a vibrant blue color and multiple compartments, it combines fashion and functionality.",
+    basePrice: 475000,
+  },
+  {
+    id: "821568c6-176f-427f-ad3e-279b897c6233",
+    name: "Heshe Women's Leather Bag",
+    category: "Fashion",
+    description:
+      "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory.",
+    basePrice: 1235000,
+  },
+  {
+    id: "c83ac37a-eeed-4cc1-a4a9-8a3477eecf0a",
+    name: "Prada Women Bag",
+    category: "Fashion",
+    description:
+      "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
+    basePrice: 5700000,
+  },
+  {
+    id: "9347c543-1ab6-4785-ba7f-cce7bd1974c7",
+    name: "White Faux Leather Backpack",
+    category: "Fashion",
+    description:
+      "The White Faux Leather Backpack is a trendy and practical backpack for the modern woman. With a sleek white design and ample storage space, it's perfect for both casual and on-the-go styles.",
+    basePrice: 380000,
+  },
+  {
+    id: "1ca8c71b-b103-4481-a6b6-85fabf739d2d",
+    name: "Women Handbag Black",
+    category: "Fashion",
+    description:
+      "The Women Handbag in Black is a classic and versatile accessory that complements various outfits. With a timeless black color and functional design, it's a must-have in every woman's wardrobe.",
+    basePrice: 570000,
+  },
+  {
+    id: "4df05468-58ca-4207-b923-3e654a5cc7d1",
+    name: "Black Women's Gown",
+    category: "Fashion",
+    description:
+      "The Black Women's Gown is an elegant and timeless evening gown. With a sleek black design, it's perfect for formal events and special occasions, exuding sophistication and style.",
+    basePrice: 1235000,
+  },
+  {
+    id: "75341fdd-6bbc-40c2-a428-437f9199e990",
+    name: "Corset Leather With Skirt",
+    category: "Fashion",
+    description:
+      "The Corset Leather With Skirt is a bold and edgy ensemble that combines a stylish corset with a matching skirt. Ideal for fashion-forward individuals, it makes a statement at any event.",
+    basePrice: 855000,
+  },
+  {
+    id: "70fd922b-2a83-4eea-9b0c-914925e0a256",
+    name: "Corset With Black Skirt",
+    category: "Fashion",
+    description:
+      "The Corset With Black Skirt is a chic and versatile outfit that pairs a fashionable corset with a classic black skirt. It offers a trendy and coordinated look for various occasions.",
+    basePrice: 760000,
+  },
+  {
+    id: "db2cf3c3-14e8-4ad5-92ad-dcd03262d2e4",
+    name: "Dress Pea",
+    category: "Fashion",
+    description:
+      "The Dress Pea is a stylish and comfortable dress with a pea pattern. Perfect for casual outings, it adds a playful and fun element to your wardrobe, making it a great choice for day-to-day wear.",
+    basePrice: 475000,
+  },
+  {
+    id: "d8e14477-78bd-4633-ba29-406a89e0762c",
+    name: "Marni Red & Black Suit",
+    category: "Fashion",
+    description:
+      "The Marni Red & Black Suit is a sophisticated and fashion-forward suit ensemble. With a combination of red and black tones, it showcases a modern design for a bold and confident look.",
+    basePrice: 1710000,
+  },
+  {
+    id: "188dfc0b-d7ec-49cd-8342-5b688cb45a68",
+    name: "Green Crystal Earring",
+    category: "Fashion",
+    description:
+      "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
+    basePrice: 285000,
+  },
+  {
+    id: "4eb1c8a6-cbc6-49d7-9a7d-fc1e19406ca5",
+    name: "Green Oval Earring",
+    category: "Fashion",
+    description:
+      "The Green Oval Earring is a stylish and versatile accessory with a unique oval shape. Whether for casual or dressy occasions, its green hue and contemporary design make it a standout piece.",
+    basePrice: 237500,
+  },
+  {
+    id: "eac890b7-5772-4021-ae29-2323951ebd3a",
+    name: "Tropical Earring",
+    category: "Fashion",
+    description:
+      "The Tropical Earring is a fun and playful accessory inspired by tropical elements. Featuring vibrant colors and a lively design, it's perfect for adding a touch of summer to your look.",
+    basePrice: 190000,
+  },
+  {
+    id: "61875fee-8b37-4fdb-b7b0-89c06a22352c",
+    name: "Black & Brown Slipper",
+    category: "Fashion",
+    description:
+      "The Black & Brown Slipper is a comfortable and stylish choice for casual wear. Featuring a blend of black and brown colors, it adds a touch of sophistication to your relaxation.",
+    basePrice: 190000,
+  },
+  {
+    id: "1b4d0446-3b5b-4fbd-a0d8-57e01434f0c8",
+    name: "Calvin Klein Heel Shoes",
+    category: "Fashion",
+    description:
+      "Calvin Klein Heel Shoes are elegant and sophisticated, designed for formal occasions. With a classic design and high-quality materials, they complement your stylish ensemble.",
+    basePrice: 760000,
+  },
+  {
+    id: "050496c0-c6d7-4c9c-a067-38e36f980ce3",
+    name: "Golden Shoes Woman",
+    category: "Fashion",
+    description:
+      "The Golden Shoes for Women are a glamorous choice for special occasions. Featuring a golden hue and stylish design, they add a touch of luxury to your outfit.",
+    basePrice: 475000,
+  },
+  {
+    id: "eac9becb-d6c4-4f05-af84-db73a86869f0",
+    name: "Pampi Shoes",
+    category: "Fashion",
+    description:
+      "Pampi Shoes offer a blend of comfort and style for everyday use. With a versatile design, they are suitable for various casual occasions, providing a trendy and relaxed look.",
+    basePrice: 285000,
+  },
+  {
+    id: "af34153b-c146-4c15-a868-33358dbe8cf8",
+    name: "Red Shoes",
+    category: "Fashion",
+    description:
+      "The Red Shoes make a bold statement with their vibrant red color. Whether for a party or a casual outing, these shoes add a pop of color and style to your wardrobe.",
+    basePrice: 332500,
+  },
+  {
+    id: "a8c9241f-e95b-47f2-8c22-b386608f9eab",
+    name: "IWC Ingenieur Automatic Steel",
+    category: "Electronics",
+    description:
+      "The IWC Ingenieur Automatic Steel watch is a durable and sophisticated timepiece. With a stainless steel case and automatic movement, it combines precision and style for watch enthusiasts.",
+    basePrice: 47500000,
+  },
+  {
+    id: "204a875a-dc6c-4260-aa3f-9340713336e2",
+    name: "Rolex Cellini Moonphase",
+    category: "Electronics",
+    description:
+      "The Rolex Cellini Moonphase watch is a masterpiece of horology. Featuring a moon phase complication, it showcases the craftsmanship and elegance that Rolex is renowned for.",
+    basePrice: 152000000,
+  },
+  {
+    id: "3cad4ca0-3670-4285-aeb7-dc6072d46076",
+    name: "Rolex Datejust Women",
+    category: "Electronics",
+    description:
+      "The Rolex Datejust Women's watch is an iconic timepiece designed for women. With a timeless design and a date complication, it offers both elegance and functionality.",
+    basePrice: 104500000,
+  },
+  {
+    id: "8a6cbdc4-384c-4ed3-af83-262299ba47eb",
+    name: "Watch Gold for Women",
+    category: "Electronics",
+    description:
+      "The Gold Women's Watch is a stunning accessory that combines luxury and style. Featuring a gold-plated case and a chic design, it adds a touch of glamour to any outfit.",
+    basePrice: 7600000,
+  },
+  {
+    id: "36647a26-cfde-43e7-be5a-2a49f85abbc1",
+    name: "Women's Wrist Watch",
+    category: "Electronics",
+    description:
+      "The Women's Wrist Watch is a versatile and fashionable timepiece for everyday wear. With a comfortable strap and a simple yet elegant design, it complements various styles.",
+    basePrice: 1235000,
+  },
+  {
+    id: "6257823c-23ee-4e3c-99a0-08be0374ed34",
+    name: "Practices of an Agile Developer",
+    category: "Books",
+    description:
+      "These are the proven, effective agile practices that will make you a better developer. You'll learn pragmatic ways of approaching the development process and your personal coding techniques. You'll learn about your own attitudes, issues with working on a team, and how to best manage your learning, all in an iterative, incremental, agile style. You'll see how to apply each practice, and what benefits you can expect. Bottom line: This book will make you a better developer.",
+    basePrice: 192400,
+  },
+  {
+    id: "9522a8a8-ea3c-452b-bf3e-fda61f2c85e6",
+    name: "Developer Testing",
+    category: "Books",
+    description:
+      "To build high-quality software, you need to write testable code. That's harder than it seems: it requires insights drawn from arenas ranging from software craftsmanship to unit testing, refactoring to test-driven development. Most programming books either discuss testing only briefly, or drill down on just one or two techniques, with little guidance on how to systematically verify code. Most testing books, on the other hand, focus on a specific testing process, without showing how to write software that can be easily and systematically tested. In Developer Testing, leading software engineering consultant Alexander Tarnowski strikes an optimal balance, integrating insights from multiple disciplines to help frustrated practitioners get better results. Drawing on his extensive experience as a mentor and trainer, he offers insights that help you accelerate through the typical software assurance learning curve, so you can progress far more rapidly. Tarnowski organizes his insights into \"chunks\" to help you quickly absorb key concepts, and focuses on technology-agnostic approaches you can keep using with any new language, platform, or toolset. The first guide to cover testing mindset, techniques, and applications from the developer's perspective, Developer Testing will help developers get what they really want: better code. -- Provided by publisher.",
+    basePrice: 148900,
+  },
+  {
+    id: "026f9e15-880f-46df-9822-cbddeefc20a8",
+    name: "Java Programming for Android Developers For Dummies",
+    category: "Books",
+    description:
+      "Develop the next killer Android App using Java programming! Android is everywhere! It runs more than half the smartphones in the U.S.—and Java makes it go. If you want to cash in on its popularity by learning to build Android apps with Java, all the easy-to-follow guidance you need to get started is at your fingertips. Inside, you'll learn the basics of Java and grasp how it works with Android; then, you'll go on to create your first real, working application. How cool is that? The demand for Android apps isn't showing any signs of slowing, but if you're a mobile developer who wants to get in on the action, it's vital that you get the necessary Java background to be a success. With the help of Java Programming for Android Developers For Dummies, you'll quickly and painlessly discover the ins and outs of using Java to create groundbreaking Android apps—no prior knowledge or experience required! Get the know-how to create an Android program from the ground up Make sense of basic Java development concepts and techniques Develop the skills to handle programming challenges Find out how to debug your app Don't sit back and watch other developers release apps that bring in the bucks! Everything you need to create that next killer Android app is just a page away!",
+    basePrice: 140300,
+  },
+  {
+    id: "45bb440f-d419-46c8-b593-6fff1fd728bf",
+    name: "Ask Your Developer",
+    category: "Books",
+    description:
+      "Jeff Lawson, developer turned CEO of Twilio (one of Bloomberg Businessweek's Top 50 Companies to Watch in 2021), creates a new playbook for unleashing the full potential of software developers in any organization, showing how to help management utilize this coveted and valuable workforce to enable growth, solve a wide range of business problems, and drive digital transformation. From banking and retail to insurance and finance, every industry is turning digital, and every company needs the best software to win the hearts and minds of customers. The landscape has shifted from the classic build vs. buy question, to one of build vs. die. Companies have to get this right to survive. But how do they make this transition? Software developers are sought after, highly paid, and desperately needed to compete in the modern, digital economy. Yet most companies treat them like digital factory workers without really understanding how to unleash their full potential. Lawson argues that developers are the creative workforce who can solve major business problems and create hit products for customers—not just grind through rote tasks. From Google and Amazon, to one-person online software companies—companies that bring software developers in as partners are winning. Lawson shows how leaders who build industry changing software products consistently do three things well. First, they understand why software developers matter more than ever. Second, they understand developers and know how to motivate them. And third, they invest in their developers' success. As a software developer and public company CEO, Lawson uses his unique position to bridge the language and tools executives use with the unique culture of high performing, creative software developers. Ask Your Developer is a toolkit to help business leaders, product managers, technical leaders, software developers, and executives achieve their common goal—building great digital products and experiences. How to compete in the digital economy? In short: Ask Your Developer.",
+    basePrice: 164400,
+  },
+  {
+    id: "fea15db3-e354-4ea6-9ccf-fd233fdc8cee",
+    name: "AWS Certified Developer Official Study Guide",
+    category: "Books",
+    description:
+      "Foreword by Werner Vogels, Vice President and Corporate Technology Officer, Amazon The AWS exam has been updated. Your study guide should be, too. The AWS Certified Developer Official Study Guide–Associate Exam is your ultimate preparation resource for the latest exam! Covering all exam objectives, this invaluable resource puts a team of AWS experts at your side with expert guidance, clear explanations, and the wisdom of experience with AWS best practices. You’ll master core services and basic architecture, and equip yourself to develop, deploy, and debug cloud-based applications using AWS. The AWS Developer certification is earned by those who demonstrate the technical knowledge and skill associated with best practices for building secure, reliable cloud-based applications using AWS technology. This book is your official exam prep companion, providing everything you need to know to pass with flying colors. Study the AWS Certified Developer Exam objectives Gain expert insight on core AWS services and best practices Test your understanding of key concepts with challenging chapter questions Access online study tools including electronic flashcards, a searchable glossary, practice exams, and more Cloud computing offers businesses the opportunity to replace up-front capital infrastructure expenses with low, variable costs that scale as they grow. This customized responsiveness has negated the need for far-future infrastructure planning, putting thousands of servers at their disposal as needed—and businesses have responded, propelling AWS to the number-one spot among cloud service providers. Now these businesses need qualified AWS developers, and the AWS certification validates the exact skills and knowledge they’re looking for. When you’re ready to get serious about your cloud credentials, the AWS Certified Developer Official Study Guide–Associate Exam is the resource you need to pass the exam with flying colors. NOTE: As of October 7, 2019, the accompanying code for hands-on exercises in the book is available for downloading from the secure Resources area in the online test bank. You'll find code for Chapters 1, 2, 11, and 12.",
+    basePrice: 178900,
+  },
+  {
+    id: "da3d53cc-dfd8-489d-a6d7-1a0d90e0c3eb",
+    name: "Android Development Patterns",
+    category: "Books",
+    description:
+      "“A must read for all developers that want to begin serious Android development.” —Justin Anderson, Freelance Android Developer “From start to finish, this book contains a variety of great tips and insight into the most important attributes of Android design. This book will definitely be required reading for any of our future Android engineers.” —Cameron Banga, Cofounder, 9magnets, LLC There’s a downside to Android’s amazing openness and versatility: it’s easy for developers to write code that’s inefficient, unreliable, insecure, or hard to maintain. In Android Development Patterns , enterprise Android developer Phil Dutson helps you leverage Android 5.0+’s amazing power without falling victim to those pitfalls. Dutson presents today’s most comprehensive set of patterns and procedures for building optimized, robust apps with Android 5.0+. First, Dutson guides you through establishing a highly efficient development environment and workflow, and testing your app to ensure that your code works just as you expect. Then, he walks through the modern best practices for structuring apps, using widgets and components, and working with views. You learn how to build apps that are easy to manage and update, deliver accurate and up-to-date information without wasting precious battery power, and take advantage of new hardware, such as Android Wear and Android TV. Dutson concludes by presenting powerful strategies for optimizing your apps and packaging them for distribution. Coverage includes Using testing to build more trustworthy, dependable, maintainable apps Understanding subtle but critical differences between Android and traditional Java programming Building consistent, modern user interfaces with views and layouts Leveraging the proven MVC pattern to cleanly organize logic Creating rich visual experiences with 3D graphics, animation, and media Simplifying capture and use of location data with the new Locations API Integrating optional hardware, such as Bluetooth, NFC, or USB Building better apps with Google Play Services Creating Android Wear notifications and apps Tuning and improving apps with Google Analytics Designing Android TV apps for the “ten foot view” informit.com/aw https://github.com/dutsonpa/adp-files",
+    basePrice: 76500,
+  },
+  {
+    id: "f6e60d70-674e-4adb-9912-c7fc47d9b1c6",
+    name: "HTTP Developer's Handbook",
+    category: "Books",
+    description:
+      "HTTP is the protocol that powers the Web. As Web applications become more sophisticated, and as emerging technologies continue to rely heavily on HTTP, understanding this protocol is becoming more and more essential for professional Web developers. By learning HTTP protocol, Web developers gain a deeper understanding of the Web's architecture and can create even better Web applications that are more reliable, faster, and more secure. The HTTP Developer's Handbook is written specifically for Web developers. It begins by introducing the protocol and explaining it in a straightforward manner. It then illustrates how to leverage this information to improve applications. Extensive information and examples are given covering a wide variety of issues, such as state and session management, caching, SSL, software architecture, and application security.",
+    basePrice: 236990,
+  },
+  {
+    id: "3f80ccf4-e09d-4d59-84f6-0e687128ee9c",
+    name: "Mastering ENVY/Developer",
+    category: "Books",
+    description:
+      "This book is an in-depth exploration of ENVY/Developer, IBM's team programming environment for Smalltalk and Java. Written by well-known experts in the area, it presents both introductory and advanced topics with detailed examples. The first two parts of the book introduce the basics that a developer or development manager must know in order to use ENVY in a project setting, including the development process and the organization of applications. The third part covers advanced programming and customization, including detailed information on administering, troubleshooting, and extending the tools. This book covers VisualAge for Smalltalk, VisualWorks, and VisualAge Generator in detail. In addition, the concepts and management presented within the book apply to VisualAge for Java. Code examples, tools, and add-ons, are available on the supporting Web site.",
+    basePrice: 342890,
+  },
+  {
+    id: "cf22415d-a579-498d-a032-d30876b3250e",
+    name: "Coder to Developer",
+    category: "Books",
+    description:
+      "\"Two thumbs up\" —Gregory V. Wilson, Dr. Dobbs Journal (October 2004) No one can disparage the ability to write good code. At its highest levels, it is an art. But no one can confuse writing good code with developing good software. The difference—in terms of challenges, skills, and compensation—is immense. Coder to Developer helps you excel at the many non-coding tasks entailed, from start to finish, in just about any successful development project. What's more, it equips you with the mindset and self-assurance required to pull it all together, so that you see every piece of your work as part of a coherent process. Inside, you'll find plenty of technical guidance on such topics as: Choosing and using a source code control system Code generation tools--when and why Preventing bugs with unit testing Tracking, fixing, and learning from bugs Application activity logging Streamlining and systematizing the build process Traditional installations and alternative approaches To pull all of this together, the author has provided the source code for Download Tracker, a tool for organizing your collection of downloaded code, that's used for examples throughout this book. The code is provided in various states of completion, reflecting every stage of development, so that you can dig deep into the actual process of building software. But you'll also develop \"softer\" skills, in areas such as team management, open source collaboration, user and developer documentation, and intellectual property protection. If you want to become someone who can deliver not just good code but also a good product, this book is the place to start. If you must build successful software projects, it's essential reading.",
+    basePrice: 129435,
+  },
+  {
+    id: "69ca354c-6e74-47e7-be24-c5bcdada65ea",
+    name: "A Day at Work with a Software Developer",
+    category: "Books",
+    description:
+      "This book is sure to grab the attention of readers who love coding and computers. Readers will enjoy learning about STEM through the lens of a career as a software developer. The book introduces readers to the creative minds who develop computer programs and applications. Readers will learn how software developers use STEM every day, and how someone can land a job in this exciting field. Engaging text is illustrated with bright images to allow readers to fully grasp the topic. Readers will love fun features, such as fact boxes and graphic organizers. This book is an excellent guide to computers, careers, and STEM concepts.",
+    basePrice: 127800,
+  },
+  {
+    id: "5c60cf4d-3bee-452c-84e8-f1d94330ddc7",
+    name: "JavaScript and jQuery",
+    category: "Books",
+    description:
+      'A visual and accessible guide to JavaScript and jQuery in a built-to-last hardcover edition In JavaScript & jQuery renowned author Jon Duckett discards the traditional programming book template and approaches writing code in a more relevant, less intimidating way. Full-color and packed with instructional graphics and photos, his books have gained a loyal following by illustrating programming in a way both instructive for newcomers and invaluable for seasoned coders. By discussing JavaScript and jQuery in a single text, Duckett ensures you will quickly be writing your own working scripts. Yet the book doesn\'t assume you have experience in either JavaScript or jQuery. By making use of popular jQuery plugins, Duckett illustrates techniques that would require pages upon pages of detailed explanation if you were being taught to create the plugins yourself. This durable and attractive hardcover edition is a book you will have open on your desk as a reference for years to come. A timeless and lasting version of a classic "Duckett" book in a hardbound, dust-jacketed edition Completely accessible to those who feel intimidated by the subject matter and relevant to all front-end designers and developers who need to understand JavaScript Discusses applying responsive design techniques, leveraging APIs to save you time and work in coding, and identifying when to use CSS transforms over pure JavaScript Beautiful 4-color illustrations and examples make this a terrific academic resource for those of all experience levels JavaScript & jQuery clearly explains the jargon of programming, addressing the vocabulary without making it a prerequisite for readers. Duckett speaks directly to readers, making this an invaluable resource. This book is also available as a set, Web Design with HTML, CSS, JavaScript and jQuery Set 978119038634 along with HTML and CSS Design and Build Websites 9781118871645.',
+    basePrice: 89870,
+  },
+  {
+    id: "3a916b58-9383-4ca0-8614-be8ac2d34296",
+    name: "Eloquent JavaScript, 3rd Edition",
+    category: "Books",
+    description:
+      "Completely revised and updated, this best-selling introduction to programming in JavaScript focuses on writing real applications. JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of Java¬Script and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track. As with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs. You start by learning the basic structure of the JavaScript language as well as control structures, functions, and data structures to help you write basic programs. Then you'll learn about error handling and bug fixing, modularity, and asynchronous programming before moving on to web browsers and how JavaScript is used to program them. As you build projects such as an artificial life simulation, a simple programming language, and a paint program, you'll learn how to: - Understand the essential elements of programming, including syntax, control, and data - Organize and clarify your code with object-oriented and functional programming techniques - Script the browser and make basic web applications - Use the DOM effectively to interact with browsers - Harness Node.js to build servers and utilities Isn't it time you became fluent in the language of the Web? * All source code is available online in an inter¬active sandbox, where you can edit the code, run it, and see its output instantly.",
+    basePrice: 234890,
+  },
+  {
+    id: "9b4d50e2-a978-4828-be93-d05a96365efc",
+    name: "Effective JavaScript",
+    category: "Books",
+    description:
+      "Provides information on how to write better JavaScript programs, covering such topics as functions, arrays, library and API design, and concurrency.",
+    basePrice: 509890,
+  },
+  {
+    id: "08a908f7-d06a-4bff-863b-86f8056b77f8",
+    name: "Beginning JavaScript",
+    category: "Books",
+    description:
+      "The bestselling JavaScript guide, updated with current features and best practices Beginning JavaScript 5th Edition shows you how to work effectively with JavaScript frameworks, functions, and modern browsers, and teaches more effective coding practices using HTML5. This new edition has been extensively updated to reflect the way JavaScript is most commonly used today, introducing you to the latest tools and techniques available to JavaScript developers. Coverage includes modern coding practices using HTML5 markup, the JSON data format, DOM APIs, the jQuery framework, and more. Exercises with solutions provide plenty of opportunity to practice, and the companion website offers downloadable code for all examples given in the book. Learn JavaScript using the most up to date coding style Understand JSON, functions, events, and feature detection Utilize the new HTML5 elements and the related API Explore new features including geolocation, local storage, and more JavaScript has shaped the Web from a passive medium into one that is rich, dynamic, and interactive. No matter the technology on the server side, it's JavaScript that makes it come alive in the browser. To learn JavaScript the way it's used today, Beginning JavaScript, 5th Edition is your concise guide.",
+    basePrice: 675840,
+  },
+  {
+    id: "2855f8f1-f78f-4992-90f8-dea69c906e66",
+    name: "Speaking JavaScript",
+    category: "Books",
+    description:
+      "Like it or not, JavaScript is everywhere these days—from browser to server to mobile—and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position. Speaking JavaScript helps you approach the language with four standalone sections. First, a quick-start guide teaches you just enough of the language to help you be productive right away. More experienced JavaScript programmers will find a complete and easy-to-read reference that covers each language feature in depth. Complete contents include: JavaScript quick start: Familiar with object-oriented programming? This part helps you learn JavaScript quickly and properly. JavaScript in depth: Learn details of ECMAScript 5, from syntax, variables, functions, and object-oriented programming to regular expressions and JSON with lots of examples. Pick a topic and jump in. Background: Understand JavaScript’s history and its relationship with other programming languages. Tips, tools, and libraries: Survey existing style guides, best practices, advanced techniques, module systems, package managers, build tools, and learning resources.",
+    basePrice: 147500,
+  },
+  {
+    id: "4e585acb-4d29-4652-adc1-1d318c384a18",
+    name: "Coding with JavaScript For Dummies",
+    category: "Books",
+    description:
+      "Go from beginner to builder quickly with this hands-on JavaScript guide Coding with JavaScript For Dummies provides easy, hands-on instruction for anyone looking to learn this popular client-side language. No experience? No problem! This friendly guide starts from the very beginning and walks you through the basics, then shows you how to apply what you've learned to real projects. You'll start building right away, including web page elements and simple applications, so you can immediately see how JavaScript is used in the real world. Online exercises allow you to test your code and expand your skills, and the easy-to-follow instruction provides step-by-step guidance toward understanding the JavaScript syntax, applications, and language. JavaScript enhances static web pages by providing dynamic elements that can adapt and react to user action. It's a need-to-know tool for aspiring web designers, but anyone can benefit from understanding this core development language. Coding with JavaScript For Dummies takes you from beginner to builder quickly as you: Learn what JavaScript does, how it works, and where to use it Master the core elements of JavaScript and immediately put it to work Build interactive web elements and try out your code online Create basic applications as you apply JavaScript to the app development workflow Anytime a website responds to your movement around the screen, that's JavaScript. It makes websites more functional, more beautiful, and more engaging, and your site visitors will demand nothing less. If you want to build a better website, you need JavaScript. If you need JavaScript, Coding with JavaScript For Dummies gets you started off quickly and painlessly, with plenty of hands-on practice.",
+    basePrice: 129800,
+  },
+  {
+    id: "5ab901e3-b8f4-4e1f-bc7a-30c4557c80cf",
+    name: "JavaScript for Kids",
+    category: "Books",
+    description:
+      "JavaScript is the programming language of the Internet, the secret sauce that makes the Web awesome, your favorite sites interactive, and online games fun! JavaScript for Kids is a lighthearted introduction that teaches programming essentials through patient, step-by-step examples paired with funny illustrations. You’ll begin with the basics, like working with strings, arrays, and loops, and then move on to more advanced topics, like building interactivity with jQuery and drawing graphics with Canvas. Along the way, you’ll write games such as Find the Buried Treasure, Hangman, and Snake. You’ll also learn how to: –Create functions to organize and reuse your code –Write and modify HTML to create dynamic web pages –Use the DOM and jQuery to make your web pages react to user input –Use the Canvas element to draw and animate graphics –Program real user-controlled games with collision detection and score keeping With visual examples like bouncing balls, animated bees, and racing cars, you can really see what you’re programming. Each chapter builds on the last, and programming challenges at the end of each chapter will stretch your brain and inspire your own amazing programs. Make something cool with JavaScript today! Ages 10+ (and their parents!)",
+    basePrice: 105400,
+  },
+  {
+    id: "dd84eb74-440b-4449-ab6d-37a7f92a648a",
+    name: "Eloquent JavaScript",
+    category: "Books",
+    description:
+      "Provides information and examples on writing JavaScript code, covering such topics as syntax, control, data, regular expressions, and scripting.",
+    basePrice: 102300,
+  },
+  {
+    id: "128cf81a-0cea-43fa-8719-8492fdb01a9e",
+    name: "Professional JavaScript for Web Developers",
+    category: "Books",
+    description:
+      "Update your skill set for ES 6 and 7 with the ultimate JavaScript guide for pros Professional JavaScript for Web Developers is the essential guide to next-level JavaScript development. Written for intermediate-to-advanced programmers, this book jumps right into the technical details to help you clean up your code and become a more sophisticated JavaScript developer. From JavaScript-specific object-oriented programming and inheritance, to combining JavaScript with HTML and other markup languages, expert instruction walks you through the fundamentals and beyond. This new fourth edition has been updated to cover ECMAScript 6 and 7 (also known as ES2015 and ES2016) and the major re-imagination and departure from ES 5.1; new frameworks and libraries, new techniques, new testing tools, and more are explained in detail for the professional developer, with a practical focus that helps you put your new skills to work on real-world projects. The latest—and most dramatic—ES release is already being incorporated into JavaScript engines in major browsers; this, coupled with the rise in mobile web traffic increasing demand for responsive, dynamic web design, means that all web developers need to update their skills—and this book is your ideal resource for quick, relevant guidance. Get up to date with ECMAScript 6 and 7, new frameworks, and new libraries Delve into web animation, emerging APIs, and build systems Test more effectively with mocks, unit tests, functional tests, and other tools Plan your builds for future ES releases Even if you think you know JavaScript, new ES releases bring big changes that will affect the way you work. For a professional-level update that doesn't waste time on coding fundamentals, Professional JavaScript for Web Developers is the ultimate resource to bring you up to speed.",
+    basePrice: 165000,
+  },
+  {
+    id: "ceeace64-4e6d-4e70-839b-5c0e868f1597",
+    name: "JavaScript: The Definitive Guide",
+    category: "Books",
+    description:
+      "This Fifth Edition is completely revised and expanded to cover JavaScript as it is used in today's Web 2.0 applications. This book is both an example-driven programmer's guide and a keep-on-your-desk reference, with new chapters that explain everything you need to know to get the most out of JavaScript, including: Scripted HTTP and Ajax XML processing Client-side graphics using the canvas tag Namespaces in JavaScript--essential when writing complex programs Classes, closures, persistence, Flash, and JavaScript embedded in Java applications Part I explains the core JavaScript language in detail. If you are new to JavaScript, it will teach you the language. If you are already a JavaScript programmer, Part I will sharpen your skills and deepen your understanding of the language. Part II explains the scripting environment provided by web browsers, with a focus on DOM scripting with unobtrusive JavaScript. The broad and deep coverage of client-side JavaScript is illustrated with many sophisticated examples that demonstrate how to: Generate a table of contents for an HTML document Display DHTML animations Automate form validation Draw dynamic pie charts Make HTML elements draggable Define keyboard shortcuts for web applications Create Ajax-enabled tool tips Use XPath and XSLT on XML documents loaded with Ajax And much more Part III is a complete reference for core JavaScript. It documents every class, object, constructor, method, function, property, and constant defined by JavaScript 1.5 and ECMAScript Version 3. Part IV is a reference for client-side JavaScript, covering legacy web browser APIs, the standard Level 2 DOM API, and emerging standards such as the XMLHttpRequest object and the canvas tag. More than 300,000 JavaScript programmers around the world have madethis their indispensable reference book for building JavaScript applications. \"A must-have reference for expert JavaScript programmers...well-organized and detailed.\" -- Brendan Eich, creator of JavaScript",
+    basePrice: 112000,
+  },
+  {
+    id: "c9e10284-4489-43dd-8210-d473bea86141",
+    name: "Automate the Boring Stuff with Python, 2nd Edition",
+    category: "Books",
+    description:
+      "The second edition of this best-selling Python book (over 500,000 copies sold!) uses Python 3 to teach even the technically uninclined how to write programs that do in minutes what would take hours to do by hand. There is no prior programming experience required and the book is loved by liberal arts majors and geeks alike. If you've ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you? In this fully revised second edition of the best-selling classic Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand--no prior programming experience required. You'll learn the basics of Python and explore Python's rich library of modules for performing specific tasks, like scraping data off websites, reading PDF and Word documents, and automating clicking and typing tasks. The second edition of this international fan favorite includes a brand-new chapter on input validation, as well as tutorials on automating Gmail and Google Sheets, plus tips on automatically updating CSV files. You'll learn how to create programs that effortlessly perform useful feats of automation to: • Search for text in a file or across multiple files • Create, update, move, and rename files and folders • Search the Web and download online content • Update and format data in Excel spreadsheets of any size • Split, merge, watermark, and encrypt PDFs • Send email responses and text notifications • Fill out online forms Step-by-step instructions walk you through each program, and updated practice projects at the end of each chapter challenge you to improve those programs and use your newfound skills to automate similar tasks. Don't spend your time doing work a well-trained monkey could do. Even if you've never written a line of code, you can make your computer do the grunt work. Learn how in Automate the Boring Stuff with Python, 2nd Edition.",
+    basePrice: 308700,
+  },
+  {
+    id: "d40f42e5-7522-471a-af01-3618818caa70",
+    name: "Programming in Python 3",
+    category: "Books",
+    description:
+      "Now fully updated, this edition brings together all the knowledge needed to write programs, use any library, and even create new library modules. The book teaches every aspect of the Python 3 language and covers all the built-in functionality.",
+    basePrice: 109900,
+  },
+  {
+    id: "1f446573-f6a0-45eb-bcce-c484efc7a0a2",
+    name: "Python for Everybody",
+    category: "Books",
+    description:
+      'Python for Everybody is designed to introduce students to programming and software development through the lens of exploring data. You can think of the Python programming language as your tool to solve data problems that are beyond the capability of a spreadsheet.Python is an easy to use and easy to learn programming language that is freely available on Macintosh, Windows, or Linux computers. So once you learn Python you can use it for the rest of your career without needing to purchase any software.This book uses the Python 3 language. The earlier Python 2 version of this book is titled "Python for Informatics: Exploring Information".There are free downloadable electronic copies of this book in various formats and supporting materials for the book at www.pythonlearn.com. The course materials are available to you under a Creative Commons License so you can adapt them to teach your own Python course.',
+    basePrice: 987700,
+  },
+  {
+    id: "ab020c72-4374-48a3-bb6d-365e58f9b3f9",
+    name: "Python For Dummies",
+    category: "Books",
+    description:
+      "Python is one of the most powerful, easy-to-read programming languages around, but it does have its limitations. This general purpose, high-level language that can be extended and embedded is a smart option for many programming problems, but a poor solution to others. Python For Dummies is the quick-and-easy guide to getting the most out of this robust program. This hands-on book will show you everything you need to know about building programs, debugging code, and simplifying development, as well as defining what actions it can perform. You’ll wrap yourself around all of its advanced features and become an expert Python user in no time. This guide gives you the tools you need to: Master basic elements and syntax Document, design, and debug programs Work with strings like a pro Direct a program with control structures Integrate integers, complex numbers, and modules Build lists, stacks, and queues Create an organized dictionary Handle functions, data, and namespace Construct applications with modules and packages Call, create, extend, and override classes Access the Internet to enhance your library Understand the new features of Python 2.5 Packed with critical idioms and great resources to maximize your productivity, Python For Dummies is the ultimate one-stop information guide. In a matter of minutes you’ll be familiar with Python’s building blocks, strings, dictionaries, and sets; and be on your way to writing the program that you’ve dreamed about!",
+    basePrice: 109000,
+  },
+  {
+    id: "1662931b-72b3-4022-84b3-83e6fbed1fa5",
+    name: "Basics of Python Programming",
+    category: "Books",
+    description:
+      "Learn a Programmer-Friendly language KEY FEATURES Strengthens the foundations, as a detailed explanation of programming language concepts are given in a simple manner Lists down all the important points that you need to know related to various topics in an organized manner Prepares you for coding related interview and theoretical questions Provides an in-depth explanation of complex topics and Questions It focuses on how to think logically to solve a problem Follows a systematic approach that will help you to prepare for an interview in a short duration of time Exercises are exceptionally useful to complete the reader’s understanding of a topic DESCRIPTION Book will come as a relief to the students wishing to go through a comprehensive work explaining the programming concepts of Python. Examples are given with proper description, offering a variety of practical examples and conceptual problems along with their systematically worked out solutions. It also covers all the concepts which are helpful for the students and beginners to learn the basics of Python programming. WHAT WILL YOU LEARN This book is written, taking into consideration the skills required at the beginner level for understanding Python Programming Concepts. The book covers the practical examples of Python in an easy way so that students can able to understand efficiently. WHO THIS BOOK IS FOR Book promises to be a perfect starting point for beginners and an asset for those having insight towards programming. Table of Contents 1. Introduction 2. Conditions and Loops 3. Arrays and Functions 4. Lists, Tuples, Iterators and GeneratorsDictionaries and Modules 5. File Handling and Databases 6. Object-Oriented Programming 7. Regular Expressions, Date, and Time 8. Exception Handling 9. Practice Exercise",
+    basePrice: 37700,
+  },
+  {
+    id: "9fafa60f-e2b6-46b1-8d37-97124d94ae43",
+    name: "Core Python Programming",
+    category: "Books",
+    description:
+      "A quick guide to everything anyone would want to know about the soaringly popular Internet programming language, Python. Software architect Chun provides an introduction to new features introduced in Python 1.6, and topics covered include regular expressions, extending Python, and OOP. The CD-ROM includes the source code for all of the examples in the text.",
+    basePrice: 100000,
+  },
+  {
+    id: "488fcc7c-30a5-4c2d-836e-8f25204e63fa",
+    name: "Python Essential Reference",
+    category: "Books",
+    description:
+      "Python Essential Reference is the definitive reference guide to the Python programming language--the one authoritative handbook that reliably untangles and explains both the core Python library. Designed for the practicing programmer, the book is concise, to the point, and highly accessible. It also includes detailed information on the Python library and many advanced subjects that is not available in either the official Python documentation or any other single reference source. Thoroughly updated to reflect the significant new programming language features and library modules that have been introduced in Python 2.6 and Python 3, the fourth edition of Python Essential Reference is the complete guide for programmers who need to modernize existing Python code or who are planning an eventual migration to Python 3.",
+    basePrice: 108900,
+  },
+  {
+    id: "e85ba45b-ed5c-424a-afeb-4c02f42c5158",
+    name: "Python Data Science Handbook",
+    category: "Books",
+    description:
+      "For many researchers, Python is a first-class tool mainly because of its libraries for storing, manipulating, and gaining insight from data. Several resources exist for individual pieces of this data science stack, but only with the Python Data Science Handbook do you get them all—IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and other related tools. Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming, and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models. Quite simply, this is the must-have reference for scientific computing in Python. With this handbook, you’ll learn how to use: IPython and Jupyter: provide computational environments for data scientists using Python NumPy: includes the ndarray for efficient storage and manipulation of dense data arrays in Python Pandas: features the DataFrame for efficient storage and manipulation of labeled/columnar data in Python Matplotlib: includes capabilities for a flexible range of data visualizations in Python Scikit-Learn: for efficient and clean Python implementations of the most important and established machine learning algorithms",
+    basePrice: 1000,
+  },
+  {
+    id: "ef959986-dd89-44d2-80ec-9d6cbbd80012",
+    name: "Advance Core Python Programming",
+    category: "Books",
+    description:
+      "Mastering Advanced Python Programming KEY FEATURES ● In-depth coverage on fundamentals of functions, recursion, classes, inheritance, and files. ● Mastery of advanced topics - Database connectivity, Errors and Exception, Testing and Debugging, threads, Data visualization, and Data analysis. ● In-depth coverage of advanced concepts such as data structures, and algorithms. ● Simplifies GUI and Widgets. ● Learn to connect GUI with MySQL to create a complete working application. ● Introduction to Flask. ● Thorough, detailed, and complete coverage of all topics along with ample coding examples and illustrations. DESCRIPTION Advance Core Python Programming is designed for Programmers who have a good understanding of Python basics and are ready to take the next steps. For entry-level Python programmers willing to dive deeper into programming, this book provides a path that will help them to add innovative features to their applications. This book starts by introducing you to the concept of Functions and Recursion and then moves on to higher levels of introducing you to OOP concepts, Files, integrating Python with database, threading, errors, exceptions, testing, debugging, data visualization, data analysis, GUI, data structures and algorithms. All these topics are the need of the hour and this book simplifies all these critical and essential concepts of Python for you. Knowledge of these topics will ease the functioning of your envisioned application. Throughout the book, you will have access to several coding examples which will help you to understand the real practical application of advanced Python concepts and you will be able to work on any kind of Python project with confidence. WHAT YOU WILL LEARN ● Learn advanced Python topics in simple language. ● Learn how to code in easy-to-follow steps. ● Learn to create your own classes and functions. ● Learn to work with Files. ● Learn to configure MySQL and make Python programs interact with the MySQL database. ● Get to know different types of errors, exceptions, and ways to test, debug and rectify them. ● Learn how to use Python for Data Visualization and Data Analysis. ● Learn to Create GUI features and add Widgets. ● Learn about data structures and algorithms. ● Learn to create and develop stack, queues, trees, and linked lists. ● Explore Flask, its features, and how to use it to build web applications. ● Learn to work on complex code by following simple step-by-step instructions. ● Prepare for theory and practical exams related to advanced Python Concepts. WHO THIS BOOK IS FOR This book is highly appealing to all tech-savvy students, programming enthusiasts, IT graduates, and computer science professionals who want to build strong proficiency in building Python applications. Prior understanding of Python basic coding concepts like variables, expressions, and control structures is required to begin with this book. You can also read Basic Core Python Programming to develop strong fundamentals before you start with this book. TABLE OF CONTENTS 1. Functions and Recursion 2. Classes, Objects, and Inheritance 3. Files 4. MySQL for Python 5. Python Threads 6. Errors, Exceptions, Testing, and Debugging 7. Data Visualization and Data Analysis 8. Creating the GUI form and Adding Widgets 9. MySQL and Python Graphical User Interface 10. Stack, Queue, and Deque 11. Linked List 12. Trees 13. Searching and Sorting 14. Getting Started with Flask",
+    basePrice: 100000,
+  },
+  {
+    id: "88af147d-6d89-4b49-923c-35f1e8566130",
+    name: "Head First Python",
+    category: "Books",
+    description:
+      "A guide to the programming language describes how to build Python-enabled Web servers and applications, write mobile apps on the Android platform, develop sophisticated games, build GUI-based programs, and write Python scripts to automate tasks.",
+    basePrice: 453450,
+  },
+  {
+    id: "ef880dbf-f8eb-42ba-b7aa-47f4959fe18a",
+    name: "Programming Ruby",
+    category: "Books",
+    description:
+      "A tutorial and reference to the object-oriented programming language for beginning to experienced programmers, updated for version 1.8, describes the language's structure, syntax, and operation, and explains how to build applications. Original. (Intermediate)",
+    basePrice: 100500,
+  },
+  {
+    id: "7372c974-5500-43b1-9178-63625671d695",
+    name: "Ruby",
+    category: "Books",
+    description:
+      "A New York Times bestseller and Oprah Book Club 2.0 selection, the epic, unforgettable story of a man determined to protect the woman he loves from the town desperate to destroy her. This beautiful and devastating debut heralds the arrival of a major new voice in fiction. Ephram Jennings has never forgotten the beautiful girl with the long braids running through the piney woods of Liberty, their small East Texas town. Young Ruby Bell, “the kind of pretty it hurt to look at,” has suffered beyond imagining, so as soon as she can, she flees suffocating Liberty for the bright pull of 1950s New York. Ruby quickly winds her way into the ripe center of the city—the darkened piano bars and hidden alleyways of the Village—all the while hoping for a glimpse of the red hair and green eyes of her mother. When a telegram from her cousin forces her to return home, thirty-year-old Ruby finds herself reliving the devastating violence of her girlhood. With the terrifying realization that she might not be strong enough to fight her way back out again, Ruby struggles to survive her memories of the town’s dark past. Meanwhile, Ephram must choose between loyalty to the sister who raised him and the chance for a life with the woman he has loved since he was a boy. Full of life, exquisitely written, and suffused with the pastoral beauty of the rural South, Ruby is a transcendent novel of passion and courage. This wondrous page-turner rushes through the red dust and gossip of Main Street, to the pit fire where men swill bootleg outside Bloom’s Juke, to Celia Jennings’s kitchen, where a cake is being made, yolk by yolk, that Ephram will use to try to begin again with Ruby. Utterly transfixing, with unforgettable characters, riveting suspense, and breathtaking, luminous prose, Ruby offers an unflinching portrait of man’s dark acts and the promise of the redemptive power of love. Ruby was a finalist for the PEN America Robert Bingham Debut Novel Award, a Barnes & Noble Discover Great New Writers selection, and an Indie Next Pick.",
+    basePrice: 1000,
+  },
+  {
+    id: "73087a46-7e51-4986-af61-fcf11b8962c4",
+    name: "Ruby Wizardry",
+    category: "Books",
+    description:
+      "The Ruby programming language is perfect for beginners: easy to learn, powerful, and fun to use! But wouldn't it be more fun if you were learning with the help of some wizards and dragons? Ruby Wizardry is a playful, illustrated tale that will teach you how to program in Ruby by taking you on a fantastical journey. As you follow the adventures of young heroes Ruben and Scarlet, you’ll learn real programming skills, like how to: –Use fundamental concepts like variables, symbols, arrays, and strings –Work with Ruby hashes to create a programmable breakfast menu –Control program flow with loops and conditionals to help the Royal Plumber –Test your wild and crazy ideas in IRB and save your programs as scripts –Create a class of mini-wizards, each with their own superpower! –Organize and reuse your code with methods and lists –Write your own amazing interactive stories using Ruby Along the way, you’ll meet colorful characters from around the kingdom, like the hacker Queen, the Off-White Knight, and Wherefore the minstrel. Ruby Wizardry will have you (or your little wizard) hooked on programming in no time. For ages 10+ (and their parents!)",
+    basePrice: 193459,
+  },
+  {
+    id: "15a982f1-352a-4680-a443-c40714ad709d",
+    name: "Metaprogramming Ruby 2",
+    category: "Books",
+    description:
+      "Paolo Perrotta has fifteen years of experience as a developer, ranging from embedded to enterprise software, computer games, and web applications. Paolo lives a nomadic life, mentoring agile teams throughout Europe. He has a base camp in Bologna, Italy. He loves Ruby.",
+    basePrice: 145500,
+  },
+  {
+    id: "405a7059-b6c0-4c97-b0bd-7321b3a302ae",
+    name: "The Book of Ruby",
+    category: "Books",
+    description:
+      "Ruby is famous for being easy to learn, but most users only scratch the surface of what it can do. While other books focus on Ruby's trendier features, The Book of Ruby reveals the secret inner workings of one of the world's most popular programming languages, teaching you to write clear, maintainable code. You'll start with the basics—types, data structures, and control flows—and progress to advanced features like blocks, mixins, metaclasses, and beyond. Rather than bog you down with a lot of theory, The Book of Ruby takes a hands-on approach and focuses on making you productive from day one. As you follow along, you’ll learn to: –Leverage Ruby's succinct and flexible syntax to maximize your productivity –Balance Ruby's functional, imperative, and object-oriented features –Write self-modifying programs using dynamic programming techniques –Create new fibers and threads to manage independent processes concurrently –Catch and recover from execution errors with robust exception handling –Develop powerful web applications with the Ruby on Rails framework Each chapter includes a \"Digging Deeper\" section that shows you how Ruby works under the hood, so you'll never be caught off guard by its deceptively simple scoping, multithreading features, or precedence rules. Whether you're new to programming or just new Ruby, The Book of Ruby is your guide to rapid, real-world software development with this unique and elegant language.",
+    basePrice: 308700,
+  },
+  {
+    id: "b00920d0-de4c-4bd9-8ec4-b65bebb3880e",
+    name: "Eloquent Ruby",
+    category: "Books",
+    description:
+      "It’s easy to write correct Ruby code, but to gain the fluency needed to write great Ruby code, you must go beyond syntax and absorb the “Ruby way” of thinking and problem solving. In Eloquent Ruby, Russ Olsen helps you write Ruby like true Rubyists do–so you can leverage its immense, surprising power. Olsen draws on years of experience internalizing the Ruby culture and teaching Ruby to other programmers. He guides you to the “Ah Ha!” moments when it suddenly becomes clear why Ruby works the way it does, and how you can take advantage of this language’s elegance and expressiveness. Eloquent Ruby starts small, answering tactical questions focused on a single statement, method, test, or bug. You’ll learn how to write code that actually looks like Ruby (not Java or C#); why Ruby has so many control structures; how to use strings, expressions, and symbols; and what dynamic typing is really good for. Next, the book addresses bigger questions related to building methods and classes. You’ll discover why Ruby classes contain so many tiny methods, when to use operator overloading, and when to avoid it. Olsen explains how to write Ruby code that writes its own code–and why you’ll want to. He concludes with powerful project-level features and techniques ranging from gems to Domain Specific Languages. A part of the renowned Addison-Wesley Professional Ruby Series, Eloquent Ruby will help you “put on your Ruby-colored glasses” and get results that make you a true believer.",
+    basePrice: 100000,
+  },
+  {
+    id: "0cd24773-564f-43bb-9a2a-c4bccd522849",
+    name: "Mastering Ruby on Rails",
+    category: "Books",
+    description:
+      "There is no shortage of programming languages and frameworks out there. But in the midst of all this, Ruby on Rails stands out. Despite losing out on the top spot to other contenders, Ruby on Rails has earned for itself a position of repute and a robust user base. Ever since its debut in 2004, Ruby on Rails has rapidly become one of the most impactful and popular tools for building dynamic web applications. Rails owes much of its success to its compact design and the usage of the underlying Ruby language. It effectively creates a domain-specific language for writing web applications. As a result, many common web programming tasks—such as generating HTML, making data models, and routing URLs—are easier with Rails. Although its outstanding capabilities have made Ruby on Rails one of the world’s most popular web development frameworks, some might still find it challenging to learn and use. Mastering Ruby on Rails: A Beginner’s Guide could be just the right solution for that. Whatever your previous web development experience is, Mastering Ruby on Rails can guide you to true Rails proficiency. It will help you to: Install and set up your Rails development environment Go beyond generated code to build Rails applications from scratch Effectively use the Model-View-Controller (MVC) pattern Master the Ruby programming skills all Rails developers need Define high-quality site layouts and data models Add social features and navigate Asynchronous Javascript and XML (Ajax) Mastering Ruby on Rails will walk you through Rails' inner workings and equip you to tackle complicated projects with solutions that are well-tested, adaptive, and easy to maintain. This book starts by explaining critical points behind object-oriented programming and builds toward creating a full Rails application within a few chapters. By the end of this book, besides in-depth knowledge of Rails, you will also have a basic understanding of many supporting technologies such as SQL, web frameworks, and Integrated Development Environment (IDE). You will be able to quickly grasp the Rails methodology by focusing on the development from the point of view of the beginner-level developer. Additionally, you will be provided with a reliable roadmap for migrating your applications, skill set, and development procedures to the newer, more flexible programming platform that Rails offers. Moreover, learning Rails development independently will let you use all the qualities like creativeness, critical thinking, and project management. Mastering Ruby on Rails serves as a complete guide to exploring Ruby on Rails, expanding your set of skills and experience that will only benefit you throughout your professional life. If you are looking to get into the fascinating world of Rails development, Mastering Ruby on Rails is the right pick for you! Learn more about our other Mastering titles at: https://www.routledge.com/Mastering-Computer-Science/book-series/MCS",
+    basePrice: 303500,
+  },
+  {
+    id: "0db318cc-4ce1-4dac-960c-ad2cfe2aa89e",
+    name: "Beginning Ruby",
+    category: "Books",
+    description:
+      "Learn the principles behind object-oriented programming and within a few chapters create a fully functional Ruby application. You'll also gain a basic understanding of many ancillary technologies such as databases, XML, web frameworks, and networking - some of which are needed as part of a fully functioning Ruby application. Based on the bestselling first and second editions, Beginning Ruby, Third Edition is a leading guide to learn Ruby from the ground up. The new edition of this book provides the same excellent introduction to Ruby as the previous editions plus updates for the newest version of Ruby 2.3. This book can also be used as a textbook or companion to a textbook on beginning Ruby programming. The light and agile Ruby programming language remains a very popular open source scripting option for developers building today's web and even some enterprise applications. And, now, Ruby also has applications using the Raspberry Pi, popular among hobbyists and makers. Many former Java developers still use Ruby on Rails today, the most popular framework for building Ruby applications. What You'll Learn Discover the fundamentals of Ruby and its object-oriented building blocks Use the Ruby libraries, gems, and documentation Work with files and databases Write and deploy Ruby applications Harness the various Ruby web frameworks and how to use them Do network programming with Ruby Who This Book Is For Beginning programmers, programmers new to Ruby, and web developers interested in learning and knowing the foundations of the Ruby programming language.",
+    basePrice: 458900,
+  },
+  {
+    id: "2dc2bae3-6314-40cc-99e7-c9a8cee3de7d",
+    name: "Ruby On Rails Bible",
+    category: "Books",
+    description:
+      "Ruby on Rails is a Web application framework written in Ruby, an object-oriented programming language. RoR has grown year over year in notoriety and popularity among developers because its ease of use and speed for which a Web developer can build and maintain Web sites and applications. One of its key principles is using less code for application development by avoiding redundancy and following Rails conventions, encouraging increased performance, but with less development time. Ruby on Rails Bible takes all that is key to this framework and programming language and details it in one concise guide for all user levels. Coverage includes an introduction and summary of the Ruby programming language, followed by complete in-depth coverage of the Ruby on Rails framework. In addition to chapters detailing all of the features of Rails, a separate section of the book will provide a walkthrough of the development of a complete Rails web application utilizing much of what is taught earlier in the book. Current hot development trends including Agile development, Web Services, Web 2.0, and Ajax will be covered from the Rails perspective too.",
+    basePrice: 100000,
+  },
+  {
+    id: "bf6e36d2-7ca5-472e-b98f-f962b061e667",
+    name: "Effective Ruby",
+    category: "Books",
+    description:
+      "If you’re an experienced Ruby programmer, Effective Ruby will help you harness Ruby’s full power to write more robust, efficient, maintainable, and well-performing code. Drawing on nearly a decade of Ruby experience, Peter J. Jones brings together 48 Ruby best practices, expert tips, and shortcuts—all supported by realistic code examples. Jones offers practical advice for each major area of Ruby development, from modules to memory to metaprogramming. Throughout, he uncovers little-known idioms, quirks, pitfalls, and intricacies that powerfully impact code behavior and performance. Each item contains specific, actionable, clearly organized guidelines; careful advice; detailed technical arguments; and illuminating code examples. When multiple options exist, Jones shows you how to choose the one that will work best in your situation. Effective Ruby will help you systematically improve your code—not by blindly following rules, but by thoroughly understanding Ruby programming techniques. Key features of this concise guide include How to avoid pitfalls associated with Ruby’s sometimes surprising idiosyncrasies What you should know about inheritance hierarchies to successfully use Rails (and other large frameworks) How to use misunderstood methods to do amazingly useful things with collections Better ways to use exceptions to improve code reliability Powerful metaprogramming approaches (and techniques to avoid) Practical, efficient testing solutions, including MiniTest Unit and Spec Testing How to reliably manage RubyGem dependencies How to make the most of Ruby’s memory management and profiling tools How to improve code efficiency by understanding the Ruby interpreter’s internals",
+    basePrice: 1000,
+  },
+  {
+    id: "04f63eba-4ae3-4201-abdc-509a11ec5037",
+    name: "Tesla Model S",
+    category: "Books",
+    description:
+      "Tesla Model S is the new 21st century automotive leader. Discover the electrifying facts about this unusual car that you simply have to plug in, charge up, and take off!",
+    basePrice: 193900,
+  },
+  {
+    id: "14a36efb-1fef-4329-9d33-d5b71c1dd8b8",
+    name: "The Genius of Tesla",
+    category: "Books",
+    description:
+      "In the face of climate change, demand for electric cars is growing. Elon Musk founded Tesla, making a big bet on electric cars, in 2003. Learn more about Tesla's history and what it's planning next.",
+    basePrice: 97100,
+  },
+  {
+    id: "4af77c80-aa08-4724-9f89-7eb1d7023832",
+    name: "Tesla",
+    category: "Books",
+    description:
+      "Nikola Tesla was a major contributor to the electrical revolution that transformed daily life at the turn of the twentieth century. His inventions, patents, and theoretical work formed the basis of modern AC electricity, and contributed to the development of radio and television. Like his competitor Thomas Edison, Tesla was one of America's first celebrity scientists, enjoying the company of New York high society and dazzling the likes of Mark Twain with his electrical demonstrations. An astute self-promoter and gifted showman, he cultivated a public image of the eccentric genius. Even at the end of his life when he was living in poverty, Tesla still attracted reporters to his annual birthday interview, regaling them with claims that he had invented a particle-beam weapon capable of bringing down enemy aircraft. Plenty of biographies glamorize Tesla and his eccentricities, but until now none has carefully examined what, how, and why he invented. In this groundbreaking book, W. Bernard Carlson demystifies the legendary inventor, placing him within the cultural and technological context of his time, and focusing on his inventions themselves as well as the creation and maintenance of his celebrity. Drawing on original documents from Tesla's private and public life, Carlson shows how he was an \"idealist\" inventor who sought the perfect experimental realization of a great idea or principle, and who skillfully sold his inventions to the public through mythmaking and illusion. This major biography sheds new light on Tesla's visionary approach to invention and the business strategies behind his most important technological breakthroughs.",
+    basePrice: 458900,
+  },
+  {
+    id: "9a0f34a6-62b5-47fe-8d0d-7b934ea5ace9",
+    name: "Tesla",
+    category: "Books",
+    description:
+      "From X-ray to radar, to the Tesla Coil, radio, and remote control, this illustrated biography reveals the development of Tesla's key theories and inventions. Known as the father of modern electricity, Nikola Tesla's work transformed the world. Devoted to discovery, the scientist and engineer registered more than 700 patents in his lifetime, from X-ray to radar, to the Tesla Coil, radio, and remote control. This illustrated biography follows the development of Tesla's key theories and inventions, shining a light on an eccentric man who, ultimately, led a life of solitude and penury despite contributing so much to modern civilization. Featuring more than 150 rare and beautifully reproduced photographs plus documents from his archives, Tesla is a comprehensive portrait of an ever-questioning mind.",
+    basePrice: 898749,
+  },
+  {
+    id: "5d1b5245-b21b-4ee4-b778-05b1c9ca1373",
+    name: "Power Play",
+    category: "Books",
+    description:
+      "*A Wall Street Journal Business Bestseller* 'A deeply reported and business-savvy chronicle of Tesla's wild ride' --Walter Isaacson 'A masterclass in narrative journalism' --Bradley Hope 'Exemplary' --The Times 'An exceptional work' --Washington Post Inside the outrageous, come-from-behind story of Elon Musk and Tesla's bid to build the world's greatest car and the race to drive the future. Elon Musk is among the most controversial titans of Silicon Valley. To some he's a genius and a visionary and to others he's a mercurial huckster. Billions of dollars have been gained and lost on his tweets and his personal exploits are the stuff of tabloids. But for all his outrageous talk of mind-uploading and space travel, his most audacious vision is the one closest to the ground: the electric car. When Tesla was founded in the 2000s, electric cars were novelties, trotted out and thrown on the scrap heap by carmakers for more than a century. But where most onlookers saw only failure, a small band of Silicon Valley engineers and entrepreneurs saw potential and they pitted themselves against the biggest, fiercest business rivals in the world, setting out to make a car that was quicker, sexier, smoother, cleaner than the competition. Tesla would undergo a truly hellish fifteen years, beset by rivals, pressured by investors, hobbled by whistleblowers, buoyed by its loyal supporters. Musk himself would often prove Tesla's worst enemy--his antics repeatedly taking the company he had funded himself to the brink of collapse. Was he an underdog, an antihero, a conman, or some combination of the three? Wall Street Journal tech and auto reporter Tim Higgins had a front-row seat for the drama: the pileups, wrestling for control, meltdowns, and the unlikeliest outcome of all, success. A story of power, recklessness, struggle, and triumph, Power Play is an exhilarating look at how a team of eccentrics and innovators beat the odds... and changed the future.",
+    basePrice: 70800,
+  },
+  {
+    id: "07bc4631-1ea1-42c5-8953-752778730932",
+    name: "Definition and Market Analysis of the Tesla Motors Model S",
+    category: "Books",
+    description:
+      "Seminar paper from the year 2016 in the subject Business economics - Marketing, Corporate Communication, CRM, Market Research, Social Media, grade: 1,3, University of applied sciences, Cologne, course: Marketing, language: English, abstract: The purpose of this document is to analyse the strategic marketing positioning of Tesla Motors with the focus on its premium electric car, “Model S”. From the text: - The Company Tesla Motors; - Business Analysis; - Market Analysis; - Market Positioning and Strategy",
+    basePrice: 153800,
+  },
+  {
+    id: "fd66ea00-614f-45af-a8c9-eb33ffaf606f",
+    name: "The Strange Life of Nikola Tesla",
+    category: "Books",
+    basePrice: 40000,
+  },
+  {
+    id: "531bda96-f541-474d-85a1-dc82f8a18936",
+    name: "Evaluation of the Marketing Strategy of Tesla Motors Inc",
+    category: "Books",
+    description:
+      "Research Paper (undergraduate) from the year 2015 in the subject Business economics - Marketing, Corporate Communication, CRM, Market Research, Social Media, grade: 1,0, University of applied sciences, Cologne, language: English, abstract: Tesla Motors, Inc. is a car manufacturer, which polarizes like no other company in this industry. It is often said that with its business model and its special strategic moves, Tesla confuses competitors, utilities and marketing agencies. Therefore, this assignment will focus on the analysis of the key aspects of Tesla’s business model in order to find out why it is considered to be different. Moreover, the objective of this assessment is to find out, whether this strategy is useful, or if it should be changed. The market definition and analysis of the first assignment is hereby the basis for this evaluation of Tesla Motor’s current marketing strategy. Therefore, the focus will be again on the company’s domestic market: the United States of America. Furthermore, only Tesla’s automotive products will be taken into consideration – its recently launched home battery will not be object of this work.",
+    basePrice: 163900,
+  },
+  {
+    id: "eaf50da3-879e-4f14-8aaa-97a7dbc156c0",
+    name: "Tesla",
+    category: "Books",
+    description:
+      "Now back in paperback comes the fascinating portrait of Nikola Tesla, one of the most brilliant scientists and inventors of the 20th century, from the impact of his seminal accomplishments to the eccentricities and obsessions of the man behind the science. of photos.",
+    basePrice: 579090,
+  },
+  {
+    id: "96a9654b-2056-4826-abe7-7a43a1f19fee",
+    name: "Tesla: Wizard at War",
+    category: "Books",
+    description:
+      "In this revelatory new book, the author of the award-winning international bestseller Wizard: The Life & Times of Nikola Tesla delves deeper into the groundbreaking ideas and astonishing mind of one of the greatest geniuses of modern times . . . “In a few years hence, it will be possible for nations to fight without armies, ships or guns, by weapons far more terrible to the destructive action and range of which there is virtually no limit. Any city at any distance whatsoever from the enemy can be destroyed by him and no power on Earth can stop him from doing so.” —Nikola Tesla, circa 1925 Drawing on forty years of research and a treasure trove of new information, Tesla: Wizard at War provides a comprehensive view of Tesla’s discoveries, which continue to influence today’s military technology and diplomatic strategies. One of the world’s leading Tesla experts, Marc J. Seifer offers new insight into the brilliant scientist’s particle beam weapon (aka the “Death Ray”) and explores his military negotiations with pivotal historical figures—including his links to Joseph Stalin, Vannevar Bush, General Andrew McNaughton, and Franklin Delano Roosevelt. From Tesla’s role in the origins of Star Wars technology and his dynamic theory of gravity, to the real purpose behind the iconic tower at Wardenclyffe, this is an eye-opening account of Tesla’s projects, passions, and ambitions—and an illuminating, important study of one of history’s most intriguing figures.",
+    basePrice: 231200,
+  },
+  {
+    id: "0e99499a-00f7-4fa9-8681-77c4da539474",
+    name: "Cricket Stars",
+    category: "Books",
+    description:
+      "Ages 6 to 9 years. Super Pegasus is a fantastic way to introduce children to interesting individuals and concepts. The titles in this fabulous series introduce you to some of the most well know sports persons, artists and leaders in the world.",
+    basePrice: 78490,
+  },
+  {
+    id: "c18fe273-14e0-4045-8da7-2b0b68f2c8f1",
+    name: "Cricket, My Style",
+    category: "Books",
+    description: "Experiences of an Indian cricket captain.",
+    basePrice: 898000,
+  },
+  {
+    id: "aa61fd8d-cb34-44a4-b973-31dbd87d7f93",
+    name: "Pataudi - Nawab Of Cricket",
+    category: "Books",
+    description:
+      "A brilliant anthology of essays on Mansur Ali Khan Pataudi n Pataudi: Nawab of Cricket, players, writers, editors, actors, friends and opponents reminisce about their association with Mansur Ali Khan Pataudi, one of India's greatest cricketing heroes, highlighting various aspects of the gentleman-cricketer, from his days as an exciting new talent at school and Oxford to his ascendancy as an iconic figure of Indian sport. Including an intimate Foreword by Sharmila Tagore, this extraordinary anthology - brilliantly put together by Suresh Menon, arguably India's best sports writer and journalist - offers a fascinating portrait of a cricketer and a gentleman whose contribution to Indian cricket went beyond the number of Tests he played and the runs he scored.",
+    basePrice: 39900,
+  },
+  {
+    id: "01f9cb21-4ad5-45db-97bb-85c7d3552955",
+    name: "The Picador Book of Cricket",
+    category: "Books",
+    description:
+      "A tribute to the finest writers on the game of cricket and an acknowledgement that the great days of cricket literature are behind us. There was a time when major English writers – P. G. Wodehouse, Arthur Conan Doyle, Alec Waugh – took time off to write about cricket, whereas the cricket book market today is dominated by ghosted autobiographies and statistical compendiums. The Picador Book of Cricket celebrates the best writing on the game and includes many pieces that have been out of print, or difficult to get hold of, for years. Including Neville Cardus, C. L. R. James, John Arlott, V. S. Naipaul, and C. B. Fry, this anthology is a must for any cricket follower or anyone interested in sports writing elevated to high art.",
+    basePrice: 50600,
+  },
+  {
+    id: "bb3aea5c-78e6-4776-9f7f-0d0564d1f6af",
+    name: "101 Youth Cricket Drills Age 12-16",
+    category: "Books",
+    description:
+      "Designed specifically for players aged 12 to 16, this manual contains a wide range of progressive practice drills to help young players develop. Fun, educational and challenging, all drills are illustrated and cover the essential technical skills, including: warming up; batting; bowling; fielding; wicket keeping; conditioned games; cooling down. As well as easy-to-follow instructions, each drill contains information on the equipment needed, the space required, how to construct a safe and effective training session and how to organise the players.",
+    basePrice: 53900,
+  },
+  {
+    id: "22453478-5c98-48fe-9475-70ee45ae70f5",
+    name: "Cricket and Beyond",
+    category: "Books",
+    description:
+      "Gulu wears his passion on his sleeve and on the numerous TV debates in which we have featured together I have found we are on the same wavelength when it comes to issues and controversies concerning cricket. This book contains an impressive array of Gulu’s articles on a wide range of sports with an emphasis on cricket which is so close to Gulu’s heart. There are numerous articles on the India Premier League in this collection stretching back to its origins and the reader can judge for himself how perceptive Gulu has been on this vexing issue. On this we share common ground and many of our dire predictions on what we both consider a cancer in the game have proved uncannily correct. Besides controversies, there is much to celebrate as well in this anthology and I wish both the book and its author all the best while looking forward to another such collection 20 years down the line! —from the Foreword ofBishan Singh Bedi",
+    basePrice: 17700,
+  },
+];

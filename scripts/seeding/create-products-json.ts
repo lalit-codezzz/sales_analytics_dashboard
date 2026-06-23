@@ -65,7 +65,6 @@ async function generateProducts() {
       category: productCategory,
       description: p.description,
       basePrice: price * 100,
-      popularity: 0,
     });
   });
 
@@ -83,42 +82,11 @@ async function generateProducts() {
       category: "Books",
       description: b.volumeInfo.description,
       basePrice: price * 100,
-      popularity: 0
     });
   });
-
-  for (let i = 0; i < products.length; ++i) {
-    if (i >= 0 && i < 15) {
-
-
-
-    } else if (i >= 15 && i < 60) {
-
-    } else if (i >= 60 && i < 150) {
-
-    } else {
-
-    }
-  }
-
   return products;
 }
 
-/*
-Best Seller -> 80-100
-Popular     -> 50-79
-Average     -> 20-49
-Long Tail   -> 1-19
-*/
-
-function generateRandomBetweenX2Y(x: number, y: number) {
-  if (typeof x !== "number" || typeof y !== "number") {
-    throw new Error("Type: number required!");
-  }
-
-  
-
-}
 
 generateProducts().then((products) => {
   fs.writeFileSync(

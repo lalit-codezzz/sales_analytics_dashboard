@@ -1369,14 +1369,14 @@
     "name": "Developer Testing",
     "category": "Books",
     "description": "To build high-quality software, you need to write testable code. That's harder than it seems: it requires insights drawn from arenas ranging from software craftsmanship to unit testing, refactoring to test-driven development. Most programming books either discuss testing only briefly, or drill down on just one or two techniques, with little guidance on how to systematically verify code. Most testing books, on the other hand, focus on a specific testing process, without showing how to write software that can be easily and systematically tested. In Developer Testing, leading software engineering consultant Alexander Tarnowski strikes an optimal balance, integrating insights from multiple disciplines to help frustrated practitioners get better results. Drawing on his extensive experience as a mentor and trainer, he offers insights that help you accelerate through the typical software assurance learning curve, so you can progress far more rapidly. Tarnowski organizes his insights into \"chunks\" to help you quickly absorb key concepts, and focuses on technology-agnostic approaches you can keep using with any new language, platform, or toolset. The first guide to cover testing mindset, techniques, and applications from the developer's perspective, Developer Testing will help developers get what they really want: better code. -- Provided by publisher.",
-    "basePrice": 1000
+    "basePrice": 148900
   },
   {
     "id": "026f9e15-880f-46df-9822-cbddeefc20a8",
     "name": "Java Programming for Android Developers For Dummies",
     "category": "Books",
     "description": "Develop the next killer Android App using Java programming! Android is everywhere! It runs more than half the smartphones in the U.S.—and Java makes it go. If you want to cash in on its popularity by learning to build Android apps with Java, all the easy-to-follow guidance you need to get started is at your fingertips. Inside, you'll learn the basics of Java and grasp how it works with Android; then, you'll go on to create your first real, working application. How cool is that? The demand for Android apps isn't showing any signs of slowing, but if you're a mobile developer who wants to get in on the action, it's vital that you get the necessary Java background to be a success. With the help of Java Programming for Android Developers For Dummies, you'll quickly and painlessly discover the ins and outs of using Java to create groundbreaking Android apps—no prior knowledge or experience required! Get the know-how to create an Android program from the ground up Make sense of basic Java development concepts and techniques Develop the skills to handle programming challenges Find out how to debug your app Don't sit back and watch other developers release apps that bring in the bucks! Everything you need to create that next killer Android app is just a page away!",
-    "basePrice": 1000
+    "basePrice": 140300
   },
   {
     "id": "45bb440f-d419-46c8-b593-6fff1fd728bf",
@@ -1390,70 +1390,70 @@
     "name": "AWS Certified Developer Official Study Guide",
     "category": "Books",
     "description": "Foreword by Werner Vogels, Vice President and Corporate Technology Officer, Amazon The AWS exam has been updated. Your study guide should be, too. The AWS Certified Developer Official Study Guide–Associate Exam is your ultimate preparation resource for the latest exam! Covering all exam objectives, this invaluable resource puts a team of AWS experts at your side with expert guidance, clear explanations, and the wisdom of experience with AWS best practices. You’ll master core services and basic architecture, and equip yourself to develop, deploy, and debug cloud-based applications using AWS. The AWS Developer certification is earned by those who demonstrate the technical knowledge and skill associated with best practices for building secure, reliable cloud-based applications using AWS technology. This book is your official exam prep companion, providing everything you need to know to pass with flying colors. Study the AWS Certified Developer Exam objectives Gain expert insight on core AWS services and best practices Test your understanding of key concepts with challenging chapter questions Access online study tools including electronic flashcards, a searchable glossary, practice exams, and more Cloud computing offers businesses the opportunity to replace up-front capital infrastructure expenses with low, variable costs that scale as they grow. This customized responsiveness has negated the need for far-future infrastructure planning, putting thousands of servers at their disposal as needed—and businesses have responded, propelling AWS to the number-one spot among cloud service providers. Now these businesses need qualified AWS developers, and the AWS certification validates the exact skills and knowledge they’re looking for. When you’re ready to get serious about your cloud credentials, the AWS Certified Developer Official Study Guide–Associate Exam is the resource you need to pass the exam with flying colors. NOTE: As of October 7, 2019, the accompanying code for hands-on exercises in the book is available for downloading from the secure Resources area in the online test bank. You'll find code for Chapters 1, 2, 11, and 12.",
-    "basePrice": 1000
+    "basePrice": 178900
   },
   {
     "id": "da3d53cc-dfd8-489d-a6d7-1a0d90e0c3eb",
     "name": "Android Development Patterns",
     "category": "Books",
     "description": "“A must read for all developers that want to begin serious Android development.” —Justin Anderson, Freelance Android Developer “From start to finish, this book contains a variety of great tips and insight into the most important attributes of Android design. This book will definitely be required reading for any of our future Android engineers.” —Cameron Banga, Cofounder, 9magnets, LLC There’s a downside to Android’s amazing openness and versatility: it’s easy for developers to write code that’s inefficient, unreliable, insecure, or hard to maintain. In Android Development Patterns , enterprise Android developer Phil Dutson helps you leverage Android 5.0+’s amazing power without falling victim to those pitfalls. Dutson presents today’s most comprehensive set of patterns and procedures for building optimized, robust apps with Android 5.0+. First, Dutson guides you through establishing a highly efficient development environment and workflow, and testing your app to ensure that your code works just as you expect. Then, he walks through the modern best practices for structuring apps, using widgets and components, and working with views. You learn how to build apps that are easy to manage and update, deliver accurate and up-to-date information without wasting precious battery power, and take advantage of new hardware, such as Android Wear and Android TV. Dutson concludes by presenting powerful strategies for optimizing your apps and packaging them for distribution. Coverage includes Using testing to build more trustworthy, dependable, maintainable apps Understanding subtle but critical differences between Android and traditional Java programming Building consistent, modern user interfaces with views and layouts Leveraging the proven MVC pattern to cleanly organize logic Creating rich visual experiences with 3D graphics, animation, and media Simplifying capture and use of location data with the new Locations API Integrating optional hardware, such as Bluetooth, NFC, or USB Building better apps with Google Play Services Creating Android Wear notifications and apps Tuning and improving apps with Google Analytics Designing Android TV apps for the “ten foot view” informit.com/aw https://github.com/dutsonpa/adp-files",
-    "basePrice": 1000
+    "basePrice": 76500
   },
   {
     "id": "f6e60d70-674e-4adb-9912-c7fc47d9b1c6",
     "name": "HTTP Developer's Handbook",
     "category": "Books",
     "description": "HTTP is the protocol that powers the Web. As Web applications become more sophisticated, and as emerging technologies continue to rely heavily on HTTP, understanding this protocol is becoming more and more essential for professional Web developers. By learning HTTP protocol, Web developers gain a deeper understanding of the Web's architecture and can create even better Web applications that are more reliable, faster, and more secure. The HTTP Developer's Handbook is written specifically for Web developers. It begins by introducing the protocol and explaining it in a straightforward manner. It then illustrates how to leverage this information to improve applications. Extensive information and examples are given covering a wide variety of issues, such as state and session management, caching, SSL, software architecture, and application security.",
-    "basePrice": 1000
+    "basePrice": 236990
   },
   {
     "id": "3f80ccf4-e09d-4d59-84f6-0e687128ee9c",
     "name": "Mastering ENVY/Developer",
     "category": "Books",
     "description": "This book is an in-depth exploration of ENVY/Developer, IBM's team programming environment for Smalltalk and Java. Written by well-known experts in the area, it presents both introductory and advanced topics with detailed examples. The first two parts of the book introduce the basics that a developer or development manager must know in order to use ENVY in a project setting, including the development process and the organization of applications. The third part covers advanced programming and customization, including detailed information on administering, troubleshooting, and extending the tools. This book covers VisualAge for Smalltalk, VisualWorks, and VisualAge Generator in detail. In addition, the concepts and management presented within the book apply to VisualAge for Java. Code examples, tools, and add-ons, are available on the supporting Web site.",
-    "basePrice": 1000
+    "basePrice": 342890
   },
   {
     "id": "cf22415d-a579-498d-a032-d30876b3250e",
     "name": "Coder to Developer",
     "category": "Books",
     "description": "\"Two thumbs up\" —Gregory V. Wilson, Dr. Dobbs Journal (October 2004) No one can disparage the ability to write good code. At its highest levels, it is an art. But no one can confuse writing good code with developing good software. The difference—in terms of challenges, skills, and compensation—is immense. Coder to Developer helps you excel at the many non-coding tasks entailed, from start to finish, in just about any successful development project. What's more, it equips you with the mindset and self-assurance required to pull it all together, so that you see every piece of your work as part of a coherent process. Inside, you'll find plenty of technical guidance on such topics as: Choosing and using a source code control system Code generation tools--when and why Preventing bugs with unit testing Tracking, fixing, and learning from bugs Application activity logging Streamlining and systematizing the build process Traditional installations and alternative approaches To pull all of this together, the author has provided the source code for Download Tracker, a tool for organizing your collection of downloaded code, that's used for examples throughout this book. The code is provided in various states of completion, reflecting every stage of development, so that you can dig deep into the actual process of building software. But you'll also develop \"softer\" skills, in areas such as team management, open source collaboration, user and developer documentation, and intellectual property protection. If you want to become someone who can deliver not just good code but also a good product, this book is the place to start. If you must build successful software projects, it's essential reading.",
-    "basePrice": 1000
+    "basePrice": 129435
   },
   {
     "id": "69ca354c-6e74-47e7-be24-c5bcdada65ea",
     "name": "A Day at Work with a Software Developer",
     "category": "Books",
     "description": "This book is sure to grab the attention of readers who love coding and computers. Readers will enjoy learning about STEM through the lens of a career as a software developer. The book introduces readers to the creative minds who develop computer programs and applications. Readers will learn how software developers use STEM every day, and how someone can land a job in this exciting field. Engaging text is illustrated with bright images to allow readers to fully grasp the topic. Readers will love fun features, such as fact boxes and graphic organizers. This book is an excellent guide to computers, careers, and STEM concepts.",
-    "basePrice": 1000
+    "basePrice": 127800
   },
   {
     "id": "5c60cf4d-3bee-452c-84e8-f1d94330ddc7",
     "name": "JavaScript and jQuery",
     "category": "Books",
     "description": "A visual and accessible guide to JavaScript and jQuery in a built-to-last hardcover edition In JavaScript & jQuery renowned author Jon Duckett discards the traditional programming book template and approaches writing code in a more relevant, less intimidating way. Full-color and packed with instructional graphics and photos, his books have gained a loyal following by illustrating programming in a way both instructive for newcomers and invaluable for seasoned coders. By discussing JavaScript and jQuery in a single text, Duckett ensures you will quickly be writing your own working scripts. Yet the book doesn't assume you have experience in either JavaScript or jQuery. By making use of popular jQuery plugins, Duckett illustrates techniques that would require pages upon pages of detailed explanation if you were being taught to create the plugins yourself. This durable and attractive hardcover edition is a book you will have open on your desk as a reference for years to come. A timeless and lasting version of a classic \"Duckett\" book in a hardbound, dust-jacketed edition Completely accessible to those who feel intimidated by the subject matter and relevant to all front-end designers and developers who need to understand JavaScript Discusses applying responsive design techniques, leveraging APIs to save you time and work in coding, and identifying when to use CSS transforms over pure JavaScript Beautiful 4-color illustrations and examples make this a terrific academic resource for those of all experience levels JavaScript & jQuery clearly explains the jargon of programming, addressing the vocabulary without making it a prerequisite for readers. Duckett speaks directly to readers, making this an invaluable resource. This book is also available as a set, Web Design with HTML, CSS, JavaScript and jQuery Set 978119038634 along with HTML and CSS Design and Build Websites 9781118871645.",
-    "basePrice": 1000
+    "basePrice": 89870
   },
   {
     "id": "3a916b58-9383-4ca0-8614-be8ac2d34296",
     "name": "Eloquent JavaScript, 3rd Edition",
     "category": "Books",
     "description": "Completely revised and updated, this best-selling introduction to programming in JavaScript focuses on writing real applications. JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of Java¬Script and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track. As with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs. You start by learning the basic structure of the JavaScript language as well as control structures, functions, and data structures to help you write basic programs. Then you'll learn about error handling and bug fixing, modularity, and asynchronous programming before moving on to web browsers and how JavaScript is used to program them. As you build projects such as an artificial life simulation, a simple programming language, and a paint program, you'll learn how to: - Understand the essential elements of programming, including syntax, control, and data - Organize and clarify your code with object-oriented and functional programming techniques - Script the browser and make basic web applications - Use the DOM effectively to interact with browsers - Harness Node.js to build servers and utilities Isn't it time you became fluent in the language of the Web? * All source code is available online in an inter¬active sandbox, where you can edit the code, run it, and see its output instantly.",
-    "basePrice": 1000
+    "basePrice": 234890
   },
   {
     "id": "9b4d50e2-a978-4828-be93-d05a96365efc",
     "name": "Effective JavaScript",
     "category": "Books",
     "description": "Provides information on how to write better JavaScript programs, covering such topics as functions, arrays, library and API design, and concurrency.",
-    "basePrice": 1000
+    "basePrice": 509890
   },
   {
     "id": "08a908f7-d06a-4bff-863b-86f8056b77f8",
     "name": "Beginning JavaScript",
     "category": "Books",
     "description": "The bestselling JavaScript guide, updated with current features and best practices Beginning JavaScript 5th Edition shows you how to work effectively with JavaScript frameworks, functions, and modern browsers, and teaches more effective coding practices using HTML5. This new edition has been extensively updated to reflect the way JavaScript is most commonly used today, introducing you to the latest tools and techniques available to JavaScript developers. Coverage includes modern coding practices using HTML5 markup, the JSON data format, DOM APIs, the jQuery framework, and more. Exercises with solutions provide plenty of opportunity to practice, and the companion website offers downloadable code for all examples given in the book. Learn JavaScript using the most up to date coding style Understand JSON, functions, events, and feature detection Utilize the new HTML5 elements and the related API Explore new features including geolocation, local storage, and more JavaScript has shaped the Web from a passive medium into one that is rich, dynamic, and interactive. No matter the technology on the server side, it's JavaScript that makes it come alive in the browser. To learn JavaScript the way it's used today, Beginning JavaScript, 5th Edition is your concise guide.",
-    "basePrice": 1000
+    "basePrice": 675840
   },
   {
     "id": "2855f8f1-f78f-4992-90f8-dea69c906e66",
@@ -1467,35 +1467,35 @@
     "name": "Coding with JavaScript For Dummies",
     "category": "Books",
     "description": "Go from beginner to builder quickly with this hands-on JavaScript guide Coding with JavaScript For Dummies provides easy, hands-on instruction for anyone looking to learn this popular client-side language. No experience? No problem! This friendly guide starts from the very beginning and walks you through the basics, then shows you how to apply what you've learned to real projects. You'll start building right away, including web page elements and simple applications, so you can immediately see how JavaScript is used in the real world. Online exercises allow you to test your code and expand your skills, and the easy-to-follow instruction provides step-by-step guidance toward understanding the JavaScript syntax, applications, and language. JavaScript enhances static web pages by providing dynamic elements that can adapt and react to user action. It's a need-to-know tool for aspiring web designers, but anyone can benefit from understanding this core development language. Coding with JavaScript For Dummies takes you from beginner to builder quickly as you: Learn what JavaScript does, how it works, and where to use it Master the core elements of JavaScript and immediately put it to work Build interactive web elements and try out your code online Create basic applications as you apply JavaScript to the app development workflow Anytime a website responds to your movement around the screen, that's JavaScript. It makes websites more functional, more beautiful, and more engaging, and your site visitors will demand nothing less. If you want to build a better website, you need JavaScript. If you need JavaScript, Coding with JavaScript For Dummies gets you started off quickly and painlessly, with plenty of hands-on practice.",
-    "basePrice": 1000
+    "basePrice": 129800
   },
   {
     "id": "5ab901e3-b8f4-4e1f-bc7a-30c4557c80cf",
     "name": "JavaScript for Kids",
     "category": "Books",
     "description": "JavaScript is the programming language of the Internet, the secret sauce that makes the Web awesome, your favorite sites interactive, and online games fun! JavaScript for Kids is a lighthearted introduction that teaches programming essentials through patient, step-by-step examples paired with funny illustrations. You’ll begin with the basics, like working with strings, arrays, and loops, and then move on to more advanced topics, like building interactivity with jQuery and drawing graphics with Canvas. Along the way, you’ll write games such as Find the Buried Treasure, Hangman, and Snake. You’ll also learn how to: –Create functions to organize and reuse your code –Write and modify HTML to create dynamic web pages –Use the DOM and jQuery to make your web pages react to user input –Use the Canvas element to draw and animate graphics –Program real user-controlled games with collision detection and score keeping With visual examples like bouncing balls, animated bees, and racing cars, you can really see what you’re programming. Each chapter builds on the last, and programming challenges at the end of each chapter will stretch your brain and inspire your own amazing programs. Make something cool with JavaScript today! Ages 10+ (and their parents!)",
-    "basePrice": 1000
+    "basePrice": 105400
   },
   {
     "id": "dd84eb74-440b-4449-ab6d-37a7f92a648a",
     "name": "Eloquent JavaScript",
     "category": "Books",
     "description": "Provides information and examples on writing JavaScript code, covering such topics as syntax, control, data, regular expressions, and scripting.",
-    "basePrice": 1000
+    "basePrice": 102300
   },
   {
     "id": "128cf81a-0cea-43fa-8719-8492fdb01a9e",
     "name": "Professional JavaScript for Web Developers",
     "category": "Books",
     "description": "Update your skill set for ES 6 and 7 with the ultimate JavaScript guide for pros Professional JavaScript for Web Developers is the essential guide to next-level JavaScript development. Written for intermediate-to-advanced programmers, this book jumps right into the technical details to help you clean up your code and become a more sophisticated JavaScript developer. From JavaScript-specific object-oriented programming and inheritance, to combining JavaScript with HTML and other markup languages, expert instruction walks you through the fundamentals and beyond. This new fourth edition has been updated to cover ECMAScript 6 and 7 (also known as ES2015 and ES2016) and the major re-imagination and departure from ES 5.1; new frameworks and libraries, new techniques, new testing tools, and more are explained in detail for the professional developer, with a practical focus that helps you put your new skills to work on real-world projects. The latest—and most dramatic—ES release is already being incorporated into JavaScript engines in major browsers; this, coupled with the rise in mobile web traffic increasing demand for responsive, dynamic web design, means that all web developers need to update their skills—and this book is your ideal resource for quick, relevant guidance. Get up to date with ECMAScript 6 and 7, new frameworks, and new libraries Delve into web animation, emerging APIs, and build systems Test more effectively with mocks, unit tests, functional tests, and other tools Plan your builds for future ES releases Even if you think you know JavaScript, new ES releases bring big changes that will affect the way you work. For a professional-level update that doesn't waste time on coding fundamentals, Professional JavaScript for Web Developers is the ultimate resource to bring you up to speed.",
-    "basePrice": 1000
+    "basePrice": 165000
   },
   {
     "id": "ceeace64-4e6d-4e70-839b-5c0e868f1597",
     "name": "JavaScript: The Definitive Guide",
     "category": "Books",
     "description": "This Fifth Edition is completely revised and expanded to cover JavaScript as it is used in today's Web 2.0 applications. This book is both an example-driven programmer's guide and a keep-on-your-desk reference, with new chapters that explain everything you need to know to get the most out of JavaScript, including: Scripted HTTP and Ajax XML processing Client-side graphics using the canvas tag Namespaces in JavaScript--essential when writing complex programs Classes, closures, persistence, Flash, and JavaScript embedded in Java applications Part I explains the core JavaScript language in detail. If you are new to JavaScript, it will teach you the language. If you are already a JavaScript programmer, Part I will sharpen your skills and deepen your understanding of the language. Part II explains the scripting environment provided by web browsers, with a focus on DOM scripting with unobtrusive JavaScript. The broad and deep coverage of client-side JavaScript is illustrated with many sophisticated examples that demonstrate how to: Generate a table of contents for an HTML document Display DHTML animations Automate form validation Draw dynamic pie charts Make HTML elements draggable Define keyboard shortcuts for web applications Create Ajax-enabled tool tips Use XPath and XSLT on XML documents loaded with Ajax And much more Part III is a complete reference for core JavaScript. It documents every class, object, constructor, method, function, property, and constant defined by JavaScript 1.5 and ECMAScript Version 3. Part IV is a reference for client-side JavaScript, covering legacy web browser APIs, the standard Level 2 DOM API, and emerging standards such as the XMLHttpRequest object and the canvas tag. More than 300,000 JavaScript programmers around the world have madethis their indispensable reference book for building JavaScript applications. \"A must-have reference for expert JavaScript programmers...well-organized and detailed.\" -- Brendan Eich, creator of JavaScript",
-    "basePrice": 1000
+    "basePrice": 112000
   },
   {
     "id": "c9e10284-4489-43dd-8210-d473bea86141",
@@ -1509,21 +1509,21 @@
     "name": "Programming in Python 3",
     "category": "Books",
     "description": "Now fully updated, this edition brings together all the knowledge needed to write programs, use any library, and even create new library modules. The book teaches every aspect of the Python 3 language and covers all the built-in functionality.",
-    "basePrice": 1000
+    "basePrice": 109900
   },
   {
     "id": "1f446573-f6a0-45eb-bcce-c484efc7a0a2",
     "name": "Python for Everybody",
     "category": "Books",
     "description": "Python for Everybody is designed to introduce students to programming and software development through the lens of exploring data. You can think of the Python programming language as your tool to solve data problems that are beyond the capability of a spreadsheet.Python is an easy to use and easy to learn programming language that is freely available on Macintosh, Windows, or Linux computers. So once you learn Python you can use it for the rest of your career without needing to purchase any software.This book uses the Python 3 language. The earlier Python 2 version of this book is titled \"Python for Informatics: Exploring Information\".There are free downloadable electronic copies of this book in various formats and supporting materials for the book at www.pythonlearn.com. The course materials are available to you under a Creative Commons License so you can adapt them to teach your own Python course.",
-    "basePrice": 1000
+    "basePrice": 987700
   },
   {
     "id": "ab020c72-4374-48a3-bb6d-365e58f9b3f9",
     "name": "Python For Dummies",
     "category": "Books",
     "description": "Python is one of the most powerful, easy-to-read programming languages around, but it does have its limitations. This general purpose, high-level language that can be extended and embedded is a smart option for many programming problems, but a poor solution to others. Python For Dummies is the quick-and-easy guide to getting the most out of this robust program. This hands-on book will show you everything you need to know about building programs, debugging code, and simplifying development, as well as defining what actions it can perform. You’ll wrap yourself around all of its advanced features and become an expert Python user in no time. This guide gives you the tools you need to: Master basic elements and syntax Document, design, and debug programs Work with strings like a pro Direct a program with control structures Integrate integers, complex numbers, and modules Build lists, stacks, and queues Create an organized dictionary Handle functions, data, and namespace Construct applications with modules and packages Call, create, extend, and override classes Access the Internet to enhance your library Understand the new features of Python 2.5 Packed with critical idioms and great resources to maximize your productivity, Python For Dummies is the ultimate one-stop information guide. In a matter of minutes you’ll be familiar with Python’s building blocks, strings, dictionaries, and sets; and be on your way to writing the program that you’ve dreamed about!",
-    "basePrice": 1000
+    "basePrice": 109000
   },
   {
     "id": "1662931b-72b3-4022-84b3-83e6fbed1fa5",
@@ -1537,14 +1537,14 @@
     "name": "Core Python Programming",
     "category": "Books",
     "description": "A quick guide to everything anyone would want to know about the soaringly popular Internet programming language, Python. Software architect Chun provides an introduction to new features introduced in Python 1.6, and topics covered include regular expressions, extending Python, and OOP. The CD-ROM includes the source code for all of the examples in the text.",
-    "basePrice": 1000
+    "basePrice": 100000
   },
   {
     "id": "488fcc7c-30a5-4c2d-836e-8f25204e63fa",
     "name": "Python Essential Reference",
     "category": "Books",
     "description": "Python Essential Reference is the definitive reference guide to the Python programming language--the one authoritative handbook that reliably untangles and explains both the core Python library. Designed for the practicing programmer, the book is concise, to the point, and highly accessible. It also includes detailed information on the Python library and many advanced subjects that is not available in either the official Python documentation or any other single reference source. Thoroughly updated to reflect the significant new programming language features and library modules that have been introduced in Python 2.6 and Python 3, the fourth edition of Python Essential Reference is the complete guide for programmers who need to modernize existing Python code or who are planning an eventual migration to Python 3.",
-    "basePrice": 1000
+    "basePrice": 108900
   },
   {
     "id": "e85ba45b-ed5c-424a-afeb-4c02f42c5158",
@@ -1558,21 +1558,21 @@
     "name": "Advance Core Python Programming",
     "category": "Books",
     "description": "Mastering Advanced Python Programming KEY FEATURES ● In-depth coverage on fundamentals of functions, recursion, classes, inheritance, and files. ● Mastery of advanced topics - Database connectivity, Errors and Exception, Testing and Debugging, threads, Data visualization, and Data analysis. ● In-depth coverage of advanced concepts such as data structures, and algorithms. ● Simplifies GUI and Widgets. ● Learn to connect GUI with MySQL to create a complete working application. ● Introduction to Flask. ● Thorough, detailed, and complete coverage of all topics along with ample coding examples and illustrations. DESCRIPTION Advance Core Python Programming is designed for Programmers who have a good understanding of Python basics and are ready to take the next steps. For entry-level Python programmers willing to dive deeper into programming, this book provides a path that will help them to add innovative features to their applications. This book starts by introducing you to the concept of Functions and Recursion and then moves on to higher levels of introducing you to OOP concepts, Files, integrating Python with database, threading, errors, exceptions, testing, debugging, data visualization, data analysis, GUI, data structures and algorithms. All these topics are the need of the hour and this book simplifies all these critical and essential concepts of Python for you. Knowledge of these topics will ease the functioning of your envisioned application. Throughout the book, you will have access to several coding examples which will help you to understand the real practical application of advanced Python concepts and you will be able to work on any kind of Python project with confidence. WHAT YOU WILL LEARN ● Learn advanced Python topics in simple language. ● Learn how to code in easy-to-follow steps. ● Learn to create your own classes and functions. ● Learn to work with Files. ● Learn to configure MySQL and make Python programs interact with the MySQL database. ● Get to know different types of errors, exceptions, and ways to test, debug and rectify them. ● Learn how to use Python for Data Visualization and Data Analysis. ● Learn to Create GUI features and add Widgets. ● Learn about data structures and algorithms. ● Learn to create and develop stack, queues, trees, and linked lists. ● Explore Flask, its features, and how to use it to build web applications. ● Learn to work on complex code by following simple step-by-step instructions. ● Prepare for theory and practical exams related to advanced Python Concepts. WHO THIS BOOK IS FOR This book is highly appealing to all tech-savvy students, programming enthusiasts, IT graduates, and computer science professionals who want to build strong proficiency in building Python applications. Prior understanding of Python basic coding concepts like variables, expressions, and control structures is required to begin with this book. You can also read Basic Core Python Programming to develop strong fundamentals before you start with this book. TABLE OF CONTENTS 1. Functions and Recursion 2. Classes, Objects, and Inheritance 3. Files 4. MySQL for Python 5. Python Threads 6. Errors, Exceptions, Testing, and Debugging 7. Data Visualization and Data Analysis 8. Creating the GUI form and Adding Widgets 9. MySQL and Python Graphical User Interface 10. Stack, Queue, and Deque 11. Linked List 12. Trees 13. Searching and Sorting 14. Getting Started with Flask",
-    "basePrice": 1000
+    "basePrice": 100000
   },
   {
     "id": "88af147d-6d89-4b49-923c-35f1e8566130",
     "name": "Head First Python",
     "category": "Books",
     "description": "A guide to the programming language describes how to build Python-enabled Web servers and applications, write mobile apps on the Android platform, develop sophisticated games, build GUI-based programs, and write Python scripts to automate tasks.",
-    "basePrice": 1000
+    "basePrice": 453450
   },
   {
     "id": "ef880dbf-f8eb-42ba-b7aa-47f4959fe18a",
     "name": "Programming Ruby",
     "category": "Books",
     "description": "A tutorial and reference to the object-oriented programming language for beginning to experienced programmers, updated for version 1.8, describes the language's structure, syntax, and operation, and explains how to build applications. Original. (Intermediate)",
-    "basePrice": 1000
+    "basePrice": 100500
   },
   {
     "id": "7372c974-5500-43b1-9178-63625671d695",
@@ -1586,14 +1586,14 @@
     "name": "Ruby Wizardry",
     "category": "Books",
     "description": "The Ruby programming language is perfect for beginners: easy to learn, powerful, and fun to use! But wouldn't it be more fun if you were learning with the help of some wizards and dragons? Ruby Wizardry is a playful, illustrated tale that will teach you how to program in Ruby by taking you on a fantastical journey. As you follow the adventures of young heroes Ruben and Scarlet, you’ll learn real programming skills, like how to: –Use fundamental concepts like variables, symbols, arrays, and strings –Work with Ruby hashes to create a programmable breakfast menu –Control program flow with loops and conditionals to help the Royal Plumber –Test your wild and crazy ideas in IRB and save your programs as scripts –Create a class of mini-wizards, each with their own superpower! –Organize and reuse your code with methods and lists –Write your own amazing interactive stories using Ruby Along the way, you’ll meet colorful characters from around the kingdom, like the hacker Queen, the Off-White Knight, and Wherefore the minstrel. Ruby Wizardry will have you (or your little wizard) hooked on programming in no time. For ages 10+ (and their parents!)",
-    "basePrice": 1000
+    "basePrice": 193459
   },
   {
     "id": "15a982f1-352a-4680-a443-c40714ad709d",
     "name": "Metaprogramming Ruby 2",
     "category": "Books",
     "description": "Paolo Perrotta has fifteen years of experience as a developer, ranging from embedded to enterprise software, computer games, and web applications. Paolo lives a nomadic life, mentoring agile teams throughout Europe. He has a base camp in Bologna, Italy. He loves Ruby.",
-    "basePrice": 1000
+    "basePrice": 145500
   },
   {
     "id": "405a7059-b6c0-4c97-b0bd-7321b3a302ae",
@@ -1607,7 +1607,7 @@
     "name": "Eloquent Ruby",
     "category": "Books",
     "description": "It’s easy to write correct Ruby code, but to gain the fluency needed to write great Ruby code, you must go beyond syntax and absorb the “Ruby way” of thinking and problem solving. In Eloquent Ruby, Russ Olsen helps you write Ruby like true Rubyists do–so you can leverage its immense, surprising power. Olsen draws on years of experience internalizing the Ruby culture and teaching Ruby to other programmers. He guides you to the “Ah Ha!” moments when it suddenly becomes clear why Ruby works the way it does, and how you can take advantage of this language’s elegance and expressiveness. Eloquent Ruby starts small, answering tactical questions focused on a single statement, method, test, or bug. You’ll learn how to write code that actually looks like Ruby (not Java or C#); why Ruby has so many control structures; how to use strings, expressions, and symbols; and what dynamic typing is really good for. Next, the book addresses bigger questions related to building methods and classes. You’ll discover why Ruby classes contain so many tiny methods, when to use operator overloading, and when to avoid it. Olsen explains how to write Ruby code that writes its own code–and why you’ll want to. He concludes with powerful project-level features and techniques ranging from gems to Domain Specific Languages. A part of the renowned Addison-Wesley Professional Ruby Series, Eloquent Ruby will help you “put on your Ruby-colored glasses” and get results that make you a true believer.",
-    "basePrice": 1000
+    "basePrice": 100000
   },
   {
     "id": "0cd24773-564f-43bb-9a2a-c4bccd522849",
@@ -1621,14 +1621,14 @@
     "name": "Beginning Ruby",
     "category": "Books",
     "description": "Learn the principles behind object-oriented programming and within a few chapters create a fully functional Ruby application. You'll also gain a basic understanding of many ancillary technologies such as databases, XML, web frameworks, and networking - some of which are needed as part of a fully functioning Ruby application. Based on the bestselling first and second editions, Beginning Ruby, Third Edition is a leading guide to learn Ruby from the ground up. The new edition of this book provides the same excellent introduction to Ruby as the previous editions plus updates for the newest version of Ruby 2.3. This book can also be used as a textbook or companion to a textbook on beginning Ruby programming. The light and agile Ruby programming language remains a very popular open source scripting option for developers building today's web and even some enterprise applications. And, now, Ruby also has applications using the Raspberry Pi, popular among hobbyists and makers. Many former Java developers still use Ruby on Rails today, the most popular framework for building Ruby applications. What You'll Learn Discover the fundamentals of Ruby and its object-oriented building blocks Use the Ruby libraries, gems, and documentation Work with files and databases Write and deploy Ruby applications Harness the various Ruby web frameworks and how to use them Do network programming with Ruby Who This Book Is For Beginning programmers, programmers new to Ruby, and web developers interested in learning and knowing the foundations of the Ruby programming language.",
-    "basePrice": 1000
+    "basePrice": 458900
   },
   {
     "id": "2dc2bae3-6314-40cc-99e7-c9a8cee3de7d",
     "name": "Ruby On Rails Bible",
     "category": "Books",
     "description": "Ruby on Rails is a Web application framework written in Ruby, an object-oriented programming language. RoR has grown year over year in notoriety and popularity among developers because its ease of use and speed for which a Web developer can build and maintain Web sites and applications. One of its key principles is using less code for application development by avoiding redundancy and following Rails conventions, encouraging increased performance, but with less development time. Ruby on Rails Bible takes all that is key to this framework and programming language and details it in one concise guide for all user levels. Coverage includes an introduction and summary of the Ruby programming language, followed by complete in-depth coverage of the Ruby on Rails framework. In addition to chapters detailing all of the features of Rails, a separate section of the book will provide a walkthrough of the development of a complete Rails web application utilizing much of what is taught earlier in the book. Current hot development trends including Agile development, Web Services, Web 2.0, and Ajax will be covered from the Rails perspective too.",
-    "basePrice": 1000
+    "basePrice": 100000
   },
   {
     "id": "bf6e36d2-7ca5-472e-b98f-f962b061e667",
@@ -1656,14 +1656,14 @@
     "name": "Tesla",
     "category": "Books",
     "description": "Nikola Tesla was a major contributor to the electrical revolution that transformed daily life at the turn of the twentieth century. His inventions, patents, and theoretical work formed the basis of modern AC electricity, and contributed to the development of radio and television. Like his competitor Thomas Edison, Tesla was one of America's first celebrity scientists, enjoying the company of New York high society and dazzling the likes of Mark Twain with his electrical demonstrations. An astute self-promoter and gifted showman, he cultivated a public image of the eccentric genius. Even at the end of his life when he was living in poverty, Tesla still attracted reporters to his annual birthday interview, regaling them with claims that he had invented a particle-beam weapon capable of bringing down enemy aircraft. Plenty of biographies glamorize Tesla and his eccentricities, but until now none has carefully examined what, how, and why he invented. In this groundbreaking book, W. Bernard Carlson demystifies the legendary inventor, placing him within the cultural and technological context of his time, and focusing on his inventions themselves as well as the creation and maintenance of his celebrity. Drawing on original documents from Tesla's private and public life, Carlson shows how he was an \"idealist\" inventor who sought the perfect experimental realization of a great idea or principle, and who skillfully sold his inventions to the public through mythmaking and illusion. This major biography sheds new light on Tesla's visionary approach to invention and the business strategies behind his most important technological breakthroughs.",
-    "basePrice": 1000
+    "basePrice": 458900
   },
   {
     "id": "9a0f34a6-62b5-47fe-8d0d-7b934ea5ace9",
     "name": "Tesla",
     "category": "Books",
     "description": "From X-ray to radar, to the Tesla Coil, radio, and remote control, this illustrated biography reveals the development of Tesla's key theories and inventions. Known as the father of modern electricity, Nikola Tesla's work transformed the world. Devoted to discovery, the scientist and engineer registered more than 700 patents in his lifetime, from X-ray to radar, to the Tesla Coil, radio, and remote control. This illustrated biography follows the development of Tesla's key theories and inventions, shining a light on an eccentric man who, ultimately, led a life of solitude and penury despite contributing so much to modern civilization. Featuring more than 150 rare and beautifully reproduced photographs plus documents from his archives, Tesla is a comprehensive portrait of an ever-questioning mind.",
-    "basePrice": 1000
+    "basePrice": 898749
   },
   {
     "id": "5d1b5245-b21b-4ee4-b778-05b1c9ca1373",
@@ -1697,7 +1697,7 @@
     "name": "Tesla",
     "category": "Books",
     "description": "Now back in paperback comes the fascinating portrait of Nikola Tesla, one of the most brilliant scientists and inventors of the 20th century, from the impact of his seminal accomplishments to the eccentricities and obsessions of the man behind the science. of photos.",
-    "basePrice": 1000
+    "basePrice": 579090
   },
   {
     "id": "96a9654b-2056-4826-abe7-7a43a1f19fee",
@@ -1711,14 +1711,14 @@
     "name": "Cricket Stars",
     "category": "Books",
     "description": "Ages 6 to 9 years. Super Pegasus is a fantastic way to introduce children to interesting individuals and concepts. The titles in this fabulous series introduce you to some of the most well know sports persons, artists and leaders in the world.",
-    "basePrice": 1000
+    "basePrice": 78490
   },
   {
     "id": "c18fe273-14e0-4045-8da7-2b0b68f2c8f1",
     "name": "Cricket, My Style",
     "category": "Books",
     "description": "Experiences of an Indian cricket captain.",
-    "basePrice": 1000
+    "basePrice": 898000
   },
   {
     "id": "aa61fd8d-cb34-44a4-b973-31dbd87d7f93",

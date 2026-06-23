@@ -1,0 +1,21 @@
+export const weightedOrderStatus = [
+    "Pending",
+    "Delivered",
+    "Cancelled",
+    "Delivered",
+    "Delivered",
+    "Returned",
+    "Pending",
+    "Delivered",
+    "Delivered",
+    "Cancelled",
+    "Delivered",
+    "Pending",
+    "Delivered",
+    "Delivered",
+    "Pending",
+    "Delivered",
+    "Cancelled",
+    "Pending",
+    "Delivered"
+];
