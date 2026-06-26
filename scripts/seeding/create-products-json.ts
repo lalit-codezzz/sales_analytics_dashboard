@@ -65,6 +65,7 @@ async function generateProducts() {
       category: productCategory,
       description: p.description,
       basePrice: price * 100,
+      imageUrl: p.images[0],
     });
   });
 
@@ -74,7 +75,7 @@ async function generateProducts() {
   );
   const booksFromFreeapi = freeapiResponse.data.data.data;
   booksFromFreeapi.forEach((b: any) => {
-    let price = b?.saleInfo?.listPrice?.amount || 10;
+    let price = b?.saleInfo?.listPrice?.amount || Math.ceil(Math.random() * 1000);
     price = Math.ceil(price);
     products.push({
       id: crypto.randomUUID(),
@@ -82,6 +83,7 @@ async function generateProducts() {
       category: "Books",
       description: b.volumeInfo.description,
       basePrice: price * 100,
+      imageUrl: b.volumeInfo.imageLinks.thumbnail
     });
   });
   return products;

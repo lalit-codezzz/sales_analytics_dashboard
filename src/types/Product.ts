@@ -13,5 +13,6 @@ export interface Product {
   name: string;
   category: ProductCategories;
   description: string;
+  imageUrl: string;
   basePrice: number;
 }

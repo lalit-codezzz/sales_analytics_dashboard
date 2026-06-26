@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.weightedMonths = exports.daysInMonths = exports.monthPosition = void 0;
+exports.shuffleArray = shuffleArray;
 var wm = [
     "Jan",
     "Jan",

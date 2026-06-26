@@ -1,24 +1,15 @@
-import { useEffect } from "react"
-import { fetchProducts } from "../scripts/testing/count-products-according-to-category";
-import countCustomersByCountry from "../scripts/testing/count-customers-according-to-country";
-import generateWeightedProducts from "../scripts/testing/create-weighted-products-array";
-import generateWeightedCustomers from "../scripts/testing/create-weighted-customers-array";
+import React from "react";
+import AppRouter from "./AppRouter";
+import { Provider } from "react-redux";
+import { store } from "./store/store";
 
-function App() {
-
-  useEffect(() => {
-    // countCustomersByCountry().then((mp) => console.log(mp));
-    generateWeightedCustomers().then((data) => {
-      console.log("LENGTH: ", data.length);
-      console.log(data);
-    })
-  }, []);
-
+export default function App() {
   return (
-    <section>
-      App
-    </section>
+    <React.Fragment>
+      <Provider store={store}>
+        <AppRouter />
+      </Provider>
+    </React.Fragment>
   )
 }
 
-export default App
